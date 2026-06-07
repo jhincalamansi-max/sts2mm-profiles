@@ -2,8 +2,25 @@
   "name": "CHARS",
   "game_version": null,
   "created_by": "jhincalamansi-max",
-  "mods": [],
+  "mods": [
+    {
+      "name": "ArisMod2",
+      "version": "0.0.2",
+      "source": "nexus:slaythespire2/mods/975",
+      "hash": "c95fbd1bc6e6c9f9c0ce8781dedc6de5088c0638bf47143b2b974d808a2f620d",
+      "files": [
+        "ArisMod2\\ArisMod2.dll",
+        "ArisMod2\\ArisMod2.json",
+        "ArisMod2\\ArisMod2.pck"
+      ],
+      "folder_name": "ArisMod2",
+      "mod_id": "ArisMod2",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_f93233db.zip",
+      "bundle_sha256": "f93233dba5b9ac78af2e7800f41ff50d50576d4737297a1e9fba57cdd8c6e7d8"
+    }
+  ],
   "created_at": "2026-06-07T13:10:38.509546400Z",
-  "updated_at": "2026-06-07T13:14:15.792468Z",
+  "updated_at": "2026-06-07T13:14:44.171761Z",
   "public": false
 }
