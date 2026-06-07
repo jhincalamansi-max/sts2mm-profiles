@@ -16,8 +16,8 @@
       "folder_name": "ArisMod2",
       "mod_id": "ArisMod2",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_b89a7f4c.zip",
-      "bundle_sha256": "b89a7f4cc2a9d9373818567ca94dd28dd6c140afc9c990cc4546e3ed5737fae7"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_44f22b38.zip",
+      "bundle_sha256": "44f22b384c03047896efdafe4ecb90f4b6db269786aa1cf539e0b544bdc37151"
     },
     {
       "name": "HellBandGirls",
@@ -32,8 +32,8 @@
       "folder_name": "HellBand",
       "mod_id": "HellBandMod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.3.0_5bd3ab56.zip",
-      "bundle_sha256": "5bd3ab560bf8656fa30a372131d45424992ecf2f8dc1a9f13aa76e497efe22e6"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.3.0_b87018af.zip",
+      "bundle_sha256": "b87018aff354e6fa2a2f59a69c7a7235adc7294da76d1c49c48627f9335a67e8"
     },
     {
       "name": "MzmChar",
@@ -49,8 +49,8 @@
       "folder_name": "MzmChar",
       "mod_id": "MzmChar",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/MzmChar_v_f66f64d9.zip",
-      "bundle_sha256": "f66f64d98d6fa62f79f10441b41d334d8d691fbc08a6dfa4d309bda6de7008f1"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/MzmChar_v_0458795b.zip",
+      "bundle_sha256": "0458795beee88f18a71ce023e6bbbac2219518ec00c8709a0a293c9337ae35af"
     },
     {
       "name": "Soot",
@@ -65,8 +65,8 @@
       "folder_name": "SGGSoot",
       "mod_id": "SGGSoot",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Soot_v0.5.5_108c211b.zip",
-      "bundle_sha256": "108c211bda77f706f1555f005e32fb331b33345a22329801b365c033d1a9e035"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Soot_v0.5.5_6fe6ccb9.zip",
+      "bundle_sha256": "6fe6ccb90096039f4a8a759c345f147b31a39f43d870c65b534d4bf996bec8b9"
     },
     {
       "name": "The Immortal（藤原妹红）",
@@ -82,8 +82,8 @@
       "folder_name": "MokouMod",
       "mod_id": "MokouMod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/The_Immortal._v1.0.4_a19c7a9c.zip",
-      "bundle_sha256": "a19c7a9c23f65b5e0e406598166b8a7f1bdb6129155f865b0b928eff20821d19"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/The_Immortal._v1.0.4_2a9f8649.zip",
+      "bundle_sha256": "2a9f8649aad62d87e61bb9713c391420dbf5209b984e0849002e87d66c6c4821"
     },
     {
       "name": "Tweek",
@@ -98,8 +98,8 @@
       "folder_name": "SGGTweek",
       "mod_id": "SGGTweek",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Tweek_v0.6.2_c91c95b3.zip",
-      "bundle_sha256": "c91c95b30cc6e7c7668665cfd75e6cc71ebba5025a90c294a93bc05159dbb413"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Tweek_v0.6.2_98c96166.zip",
+      "bundle_sha256": "98c96166c3f9cbf31482f66154338f7e3856ff7802e91bf51b95957c73350e5a"
     },
     {
       "name": "【角色mod】桐谷和人",
@@ -114,8 +114,8 @@
       "folder_name": "KiritoMod (Beta0.107)",
       "mod_id": "Kirito",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/mod._v0.1.4_a92cf712.zip",
-      "bundle_sha256": "a92cf7127a040404aac1dd539644eaab1f9af69fbe44bf53f894cf348762c385"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/mod._v0.1.4_8524481b.zip",
+      "bundle_sha256": "8524481bc8f9cb72a4fdabe91e3bc72b4d0cd328ae194aff6669c228cf5c7d31"
     },
     {
       "name": "八云红",
@@ -130,8 +130,8 @@
       "folder_name": "YakumoAkai",
       "mod_id": "YakumoAkai",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.9.2_c3b913c2.zip",
-      "bundle_sha256": "c3b913c246e597d4151d81f0293d2547988ae70e82b6010e5389c2d06df615a5"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.9.2_cb51209e.zip",
+      "bundle_sha256": "cb51209eaefe89d250568d5abde39cfa4390b07dd26abe4754403183775dedb9"
     },
     {
       "name": "八体和甜圈",
@@ -146,8 +146,8 @@
       "folder_name": "DECADONU",
       "mod_id": "ddu",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.5.6_66053f07.zip",
-      "bundle_sha256": "66053f071ef755a9dd6ee303e9644e22add95933001845a879a8e4c513d8c7e3"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.5.6_ea4f03a8.zip",
+      "bundle_sha256": "ea4f03a88d6ad6c6e4a3b4adb0e0cee3bc8edfce0f2471f107709af2a5c7e4ad"
     },
     {
       "name": "帕秋莉库",
@@ -162,8 +162,8 @@
       "folder_name": "03_Patchoulib",
       "mod_id": "Patchoulib",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.7_f2cb090e.zip",
-      "bundle_sha256": "f2cb090ee0454069f44260dd2d5797dbdf396aed14d6f57a00a0f9e90d6d633f"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.7_132311cf.zip",
+      "bundle_sha256": "132311cff5f724caac45e454fcc7557f05101f04e295062a842fe8b365c1bddf"
     },
     {
       "name": "酒狐",
@@ -178,11 +178,43 @@
       "folder_name": "STS2_WineFox",
       "mod_id": "STS2_WineFox",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.2.4_9c88c020.zip",
-      "bundle_sha256": "9c88c0205e4a0dbe6cfa76c261a1547700ef47dcf78142c3ef2f6fef7e0f1803"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.2.4_ed2e6b42.zip",
+      "bundle_sha256": "ed2e6b42a9d2b738a878db1fe4a730b2aaaf2115201a93a7e84a6210e0fd8ca4"
+    },
+    {
+      "name": "Faust",
+      "version": "0.1.7.beta",
+      "source": "github:robinhood/faust",
+      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
+      "files": [
+        "Faust\\Faust.dll",
+        "Faust\\Faust.json",
+        "Faust\\Faust.pck"
+      ],
+      "folder_name": "Faust",
+      "mod_id": "Faust",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_5522cc7a.zip",
+      "bundle_sha256": "5522cc7ad9f1ac16cd0b6dd218bc68d1677319674544b9e80690189b0d3e3a91"
+    },
+    {
+      "name": "Honglu",
+      "version": "0.2.0.beta",
+      "source": "github:nowui/HongLuoMeng_Member",
+      "hash": "dc2e7639ce4c23e94d13b9172141b7ac47d8fa2010737feea04f34caf40d214b",
+      "files": [
+        "Honglu\\Honglu.dll",
+        "Honglu\\Honglu.json",
+        "Honglu\\Honglu.pck"
+      ],
+      "folder_name": "Honglu",
+      "mod_id": "Honglu",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Honglu_v0.2.0.beta_3e631eb2.zip",
+      "bundle_sha256": "3e631eb2ec7520a2103e8b9ca83649cc840a7832118601f2b4d37f19e673e0ce"
     }
   ],
   "created_at": "2026-06-07T13:10:38.509546400Z",
-  "updated_at": "2026-06-07T13:51:01.687112Z",
+  "updated_at": "2026-06-07T14:04:18.718006700Z",
   "public": false
 }
