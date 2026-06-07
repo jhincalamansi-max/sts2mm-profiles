@@ -1,0 +1,224 @@
+{
+  "name": "QOL",
+  "game_version": null,
+  "created_by": "jhincalamansi-max",
+  "mods": [
+    {
+      "name": "Ascension Unlocker",
+      "version": "1.0.0",
+      "source": "github:nightbug/AscensionUnlocker",
+      "hash": "5892b583069f2240409864a95e8a2d1d85d20d1dd70ec762821e8ab5c191dbfc",
+      "files": [
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.dll",
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.json"
+      ],
+      "folder_name": "Ascension Unlocker Multiplayer-214-1-0-1774067733",
+      "mod_id": "AscensionUnlocker",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_105a455f.zip",
+      "bundle_sha256": "105a455faf801df93725e9025f32c23ef4bf37d5a6d084fb7fb7ea977a855f84"
+    },
+    {
+      "name": "BaseLib",
+      "version": "v3.1.8",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "047b5088c81ffed28c54b5d5088150c73c36bac471505aaf6df7d976a27deaf3",
+      "files": [
+        "01_BaseLib.3.2.0\\BaseLib.dll",
+        "01_BaseLib.3.2.0\\BaseLib.json",
+        "01_BaseLib.3.2.0\\BaseLib.pck"
+      ],
+      "folder_name": "01_BaseLib.3.2.0",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.8_057f4f5e.zip",
+      "bundle_sha256": "057f4f5ea7e978b146daa2ca0a827191c918cc21444ac73f5b23a2be9dd9c756"
+    },
+    {
+      "name": "BetterSpire2",
+      "version": "v1.82.4",
+      "source": "github:AlecRichardson/BetterSpire2",
+      "hash": "99dc1d2f27633e681878f02c061be1d86f38a358e77298d0227ec7ed4d4483d3",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.82.4_bf4333f0.zip",
+      "bundle_sha256": "bf4333f08de8654cc186866eb4623bc726c3d247b143e8be3aa495a8be6af16a"
+    },
+    {
+      "name": "Map Enhance Mod",
+      "version": "0.8.1",
+      "source": "nexus:slaythespire2/mods/475",
+      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
+      "files": [
+        "Map Enhance Mod\\map_color_config.json.txt",
+        "Map Enhance Mod\\sts2_map_mod.dll",
+        "Map Enhance Mod\\sts2_map_mod.json",
+        "Map Enhance Mod\\sts2_map_mod.log",
+        "Map Enhance Mod\\sts2_map_mod.pck",
+        "Map Enhance Mod\\sts2_map_mod.previous.log"
+      ],
+      "folder_name": "Map Enhance Mod",
+      "mod_id": "sts2_map_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_cbc0b5c6.zip",
+      "bundle_sha256": "cbc0b5c6f0077152b0b71d5444ccaca9525b2e4af7e55d0037444aeda3a66e55"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.4.12",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "63b9e4980523ebc207df2e5016268840f77fe3953b261cd8ebcb1c378a21bac5",
+      "files": [
+        "02_RitsuLib\\compat-target.txt",
+        "02_RitsuLib\\mod_manifest.json",
+        "02_RitsuLib\\STS2-RitsuLib.dll",
+        "02_RitsuLib\\STS2-RitsuLib.pdb",
+        "02_RitsuLib\\STS2-RitsuLib.xml",
+        "02_RitsuLib\\viewer\\assets\\index.css",
+        "02_RitsuLib\\viewer\\assets\\index.js",
+        "02_RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "02_RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.12_78407838.zip",
+      "bundle_sha256": "7840783846722da3743273233cbdc6a224a81cf3333e3428d4f0ac17f8179183"
+    },
+    {
+      "name": "Show Me What You Got",
+      "version": "v1.0.1",
+      "source": "nexus:slaythespire2/mods/1007",
+      "hash": "04e95a850715b763e0633306b7342d54e71602331bd859b2833d05b00a079344",
+      "files": [
+        "ShowMeWhatYouGot\\ShowMeWhatYouGot.dll",
+        "ShowMeWhatYouGot\\ShowMeWhatYouGot.json",
+        "ShowMeWhatYouGot\\ShowMeWhatYouGot.pck"
+      ],
+      "folder_name": "ShowMeWhatYouGot",
+      "mod_id": "ShowMeWhatYouGot",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Show_Me_What_You_Got_v1.0.1_2c37f5fd.zip",
+      "bundle_sha256": "2c37f5fd8df23258055f93153072a37667612f1084fe1941c111d30d96bd08db"
+    },
+    {
+      "name": "Unified Save Path",
+      "version": "1.0.0",
+      "source": "github:luojiesi/SLS2Mods",
+      "hash": "08b7cbb36c7b48820e44c060d2dc6b6c49edbb945c7cb1e8f7a44866f7c650cc",
+      "files": [
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.dll",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.json",
+        "UnifiedSavePaths-6-1-0-3-1773792441\\UnifiedSavePath.pck"
+      ],
+      "folder_name": "UnifiedSavePaths-6-1-0-3-1773792441",
+      "mod_id": "UnifiedSavePath",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Unified_Save_Path_v1.0.0_f70e8c6d.zip",
+      "bundle_sha256": "f70e8c6d5ff9d39a354307c041af6bb571972fc4ec13f369ac535df731a79b21"
+    },
+    {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": "nexus:slaythespire2/mods/253",
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "Unlock All\\mod_manifest.json",
+        "Unlock All\\UnlockAllMod.dll",
+        "Unlock All\\UnlockAllMod.pck",
+        "Unlock All\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "Unlock All",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_77c1beb3.zip",
+      "bundle_sha256": "77c1beb36788b296fed24153e818082573274c9de977d45dec57f6abf6c2c801"
+    },
+    {
+      "name": "帕秋莉库",
+      "version": "1.7",
+      "source": "github:ReddoLovecraft/patchoulib",
+      "hash": "305847dfa25df19d69b46c551b5a5e8765519fcedd66fe36484b978c74815a34",
+      "files": [
+        "03_Patchoulib\\Patchoulib.dll",
+        "03_Patchoulib\\Patchoulib.json",
+        "03_Patchoulib\\Patchoulib.pck"
+      ],
+      "folder_name": "03_Patchoulib",
+      "mod_id": "Patchoulib",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.7_714e7808.zip",
+      "bundle_sha256": "714e78087b887484d9e4857c98ffc7b15a152d0619365494313660ee43e3e9b3"
+    },
+    {
+      "name": "皮皮倒带: Rewind",
+      "version": "0.26.11",
+      "source": "nexus:slaythespire2/mods/211",
+      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
+      "files": [
+        "Rewind\\Rewind.dll",
+        "Rewind\\Rewind.json",
+        "Rewind\\Rewind.pck"
+      ],
+      "folder_name": "Rewind",
+      "mod_id": "Rewind",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_f60b999d.zip",
+      "bundle_sha256": "f60b999d2c1315a68f239b62cc74f6cf37a93f54bf5818b564799ccb600e9fd5"
+    },
+    {
+      "name": "皮皮快连: QuickLink",
+      "version": "0.9.9",
+      "source": "nexus:slaythespire2/mods/280",
+      "hash": "ad235ca67b3c822b4f6cf9d08b4ce31a5cd3e1030c7995fb9be1d9236bce623d",
+      "files": [
+        "QuickLink\\QuickLink.dll",
+        "QuickLink\\QuickLink.json",
+        "QuickLink\\QuickLink.pck"
+      ],
+      "folder_name": "QuickLink",
+      "mod_id": "QuickLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_f1e96541.zip",
+      "bundle_sha256": "f1e96541f508e38ae8880d4ed3c612715d70525a039e905d13faad65a4ce1e7e"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "github:xhyrzldf/ModConfig-STS2",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "04_ModConfig\\ModConfig.dll",
+        "04_ModConfig\\ModConfig.json",
+        "04_ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "04_ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_950c80d6.zip",
+      "bundle_sha256": "950c80d6fdde1cb410a87486be2d6c8682f524fc3d0d2685b1e44b4a3a5065a3"
+    }
+  ],
+  "created_at": "2026-06-07T12:38:00.417026100Z",
+  "updated_at": "2026-06-07T12:38:00.560272800Z",
+  "public": false
+}
