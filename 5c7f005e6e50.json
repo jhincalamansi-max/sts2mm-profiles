@@ -16,8 +16,8 @@
       "folder_name": "ArisMod2",
       "mod_id": "ArisMod2",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_b0c6e408.zip",
-      "bundle_sha256": "b0c6e4084a29bd7b8c5a73f18aaf89543fb150cd27a969ddf69358aee5f49bdd"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_4f3779c9.zip",
+      "bundle_sha256": "4f3779c952a47c5b914eadd53c54e856d08e26d32453c5badb4aca8f84a9d21a"
     },
     {
       "name": "Faust",
@@ -32,8 +32,8 @@
       "folder_name": "Faust",
       "mod_id": "Faust",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_be952489.zip",
-      "bundle_sha256": "be952489ef742146bb878abafb22b53208385d88f1e53e9dca3fad98b08246cf"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_0c5cacd7.zip",
+      "bundle_sha256": "0c5cacd763573c8ea7ade1c468386a2e68be6d1ce864290948bfd0b274c7dca2"
     },
     {
       "name": "HellBandGirls",
@@ -48,8 +48,8 @@
       "folder_name": "HellBand",
       "mod_id": "HellBandMod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.3.0_c291d714.zip",
-      "bundle_sha256": "c291d7145d016fcbfb9e3928b13d44241439d48365ce57a46e033d2fc1001449"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/HellBandGirls_v0.3.0_57049812.zip",
+      "bundle_sha256": "5704981296b54502be0267cf87817fed0067fdf230b3dc8f2f0cd7c625a5c8bc"
     },
     {
       "name": "MzmChar",
@@ -65,8 +65,8 @@
       "folder_name": "MzmChar",
       "mod_id": "MzmChar",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/MzmChar_v_eca947dd.zip",
-      "bundle_sha256": "eca947dd8ba148a14d12ebcbe450960caca0c7d9f199d597a43d164b5655c12a"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/MzmChar_v_07c111f3.zip",
+      "bundle_sha256": "07c111f362674247beb3565c8996eed22ad5ab0d40b6bb21c7fa318dc32c1716"
     },
     {
       "name": "Natsumi",
@@ -84,8 +84,8 @@
       ],
       "folder_name": "Natsumi",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Natsumi_v0.1.7_149bab91.zip",
-      "bundle_sha256": "149bab912451bef65b0dddff2d374816aab8a1a5bb193adb1b3af703d31ab976",
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Natsumi_v0.1.7_66c368e7.zip",
+      "bundle_sha256": "66c368e7400d468cb2463f2a4472b3766d60a7a154dd68cf6139630628a28fa7",
       "bundle_members": [
         "Natsumi"
       ]
@@ -103,8 +103,8 @@
       "folder_name": "PrismMod ritsulib 0.4.8-1105-6-1780591779",
       "mod_id": "PrismMod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Prism_Shirou_v0.1.0_c4110d18.zip",
-      "bundle_sha256": "c4110d18b3955bbe7391b5f3144cd6de9b298cb85e96da0ed59527d4838896d2"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Prism_Shirou_v0.1.0_44f7c67e.zip",
+      "bundle_sha256": "44f7c67ee4bce204dcb4b27e650bf6320949761b73a36858811564c59717b0e7"
     },
     {
       "name": "Ryoshu",
@@ -119,8 +119,8 @@
       "folder_name": "Ryoshu",
       "mod_id": "Ryoshu",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.5.beta_fdba7ef7.zip",
-      "bundle_sha256": "fdba7ef7976d13a79d7af8b475fee6bcee0abd03736113e1632c34ff80a81411"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.5.beta_f73e1418.zip",
+      "bundle_sha256": "f73e1418b8580fda7b826d500421fae1cf40ea60c4e1b375c09b2b547379c601"
     },
     {
       "name": "Soot",
@@ -135,8 +135,8 @@
       "folder_name": "SGGSoot",
       "mod_id": "SGGSoot",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Soot_v0.5.7_9deb7b8d.zip",
-      "bundle_sha256": "9deb7b8d0d4b6732baf796f747dbe6df25ca32137fde676726b481b94d5c2405"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Soot_v0.5.7_01119a7c.zip",
+      "bundle_sha256": "01119a7c1a471d7e66fda31209c3eb43c15e78bb861bb6960240ebdad7f99de9"
     },
     {
       "name": "The Artist",
@@ -151,8 +151,8 @@
       "folder_name": "TheArtist",
       "mod_id": "TheArtist",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/The_Artist_v0.1.0_5dce2048.zip",
-      "bundle_sha256": "5dce2048dfc7fa07bc1f44d8c52c2a998ec5803060f9f98f9f1eb6b160f536ad"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/The_Artist_v0.1.0_0351a6c0.zip",
+      "bundle_sha256": "0351a6c0c5cc2cc0495345fd96fefbcf32a652764d491e8cf4f38acdf20af5c3"
     },
     {
       "name": "TheQueen",
@@ -2058,8 +2058,8 @@
       "folder_name": "TheQueen",
       "mod_id": "TheQueen",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TheQueen_v1.1_deb9500a.zip",
-      "bundle_sha256": "deb9500a061725726e1441d8ab8b2562b21e42f476a9575b53789d0e3feff9fc"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TheQueen_v1.1_7eaf849a.zip",
+      "bundle_sha256": "7eaf849ae5f710dfd2bd669b7f564b62ca386cc02b3d27ce6f2f2f9c5404b04e"
     },
     {
       "name": "TheRailgun2",
@@ -2074,8 +2074,8 @@
       "folder_name": "TheRailgun2 (for BaseLib v3.2.0)-971-0-4-1-1780871691",
       "mod_id": "TheRailgun2",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TheRailgun2_v0.3.1_bf55d4a1.zip",
-      "bundle_sha256": "bf55d4a15561501abde8fc0502c6c59bf0474728218ff71bddcd5845cff63fb2"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TheRailgun2_v0.3.1_97296677.zip",
+      "bundle_sha256": "97296677d10660d31b361b2839049b409effe4f57b9c2f68afee6325e37e9328"
     },
     {
       "name": "Tweek",
@@ -2090,8 +2090,8 @@
       "folder_name": "SGGTweek",
       "mod_id": "SGGTweek",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Tweek_v0.6.2_d3466a5a.zip",
-      "bundle_sha256": "d3466a5a4f6089596e9fe7c0ffac2c100eaa7d88f2584236c4aabd35a73ce64b"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Tweek_v0.6.2_3d7f07e2.zip",
+      "bundle_sha256": "3d7f07e2f2c55476ea74765d2fb0298f137a44a049b34253c7e932686b2498cb"
     },
     {
       "name": "【角色mod】桐谷和人",
@@ -2106,8 +2106,8 @@
       "folder_name": "KiritoMod (Beta0.107)",
       "mod_id": "Kirito",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/mod._v0.1.4_5a72818f.zip",
-      "bundle_sha256": "5a72818fe8249325883972ab8d0c10a615adf48e90650b30e9249960cb113003"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/mod._v0.1.4_6e2b5f11.zip",
+      "bundle_sha256": "6e2b5f114d44b67cfcab77eb20b94551f2f5f15c2946ea2bbd7d56bebe502074"
     },
     {
       "name": "八云红",
@@ -2122,8 +2122,8 @@
       "folder_name": "YakumoAkai",
       "mod_id": "YakumoAkai",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.9.2_a7524c9f.zip",
-      "bundle_sha256": "a7524c9febf85847471597d344fe8b146cd9ae0dc7e6986f93903bb9c388bbce"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.9.2_e2bfcf96.zip",
+      "bundle_sha256": "e2bfcf96da563448e3c9f660f892916b132a775df7989ac47b5972822f644f5e"
     },
     {
       "name": "八体和甜圈",
@@ -2138,8 +2138,8 @@
       "folder_name": "DECADONU",
       "mod_id": "ddu",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.5.6_62c4e1a9.zip",
-      "bundle_sha256": "62c4e1a986deb697cb8a0b1a5f3ebfe847c497c8589e65002d12b16446159185"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v0.5.6_ee83ce98.zip",
+      "bundle_sha256": "ee83ce9818863830b9ef7fb98841c0ca2ac443eaefd39fa86715f404c26121c0"
     },
     {
       "name": "酒狐",
@@ -2154,11 +2154,27 @@
       "folder_name": "STS2_WineFox",
       "mod_id": "STS2_WineFox",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.2.5_ce2eb940.zip",
-      "bundle_sha256": "ce2eb9406b302aeefcffe6d8e9a3e02d589df3d7c2a4c4ab749f1547e9731830"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.2.5_c53fb027.zip",
+      "bundle_sha256": "c53fb0275f3f155fbc6e6b11931cc8baf69a839a5348b17aa591924d2dcaa332"
+    },
+    {
+      "name": "Honglu",
+      "version": "0.2.0.beta",
+      "source": "github:nowui/HongLuoMeng_Member",
+      "hash": "dc2e7639ce4c23e94d13b9172141b7ac47d8fa2010737feea04f34caf40d214b",
+      "files": [
+        "Honglu\\Honglu.dll",
+        "Honglu\\Honglu.json",
+        "Honglu\\Honglu.pck"
+      ],
+      "folder_name": "Honglu",
+      "mod_id": "Honglu",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Honglu_v0.2.0.beta_2c171c3a.zip",
+      "bundle_sha256": "2c171c3a3dc971f62129f32238fc69f62e147831ad6ff7639729fa56bf3c7b6a"
     }
   ],
   "created_at": "2026-06-08T02:38:11.257516900Z",
-  "updated_at": "2026-06-08T02:38:11.460833200Z",
+  "updated_at": "2026-06-08T04:14:22.110093100Z",
   "public": false
 }
