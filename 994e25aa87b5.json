@@ -5,73 +5,6 @@
   "created_by": "jhincalamansi-max",
   "mods": [
     {
-      "name": "Acheron",
-      "version": "v0.4.5",
-      "source": null,
-      "hash": "9d6ba94436af6c3b41e3535f8b9d24905dfd3e9b9caa6ffd304aecc6100e0ea8",
-      "files": [
-        "Acheron\\Acheron.dll",
-        "Acheron\\Acheron.json",
-        "Acheron\\Acheron.pck",
-        "Acheron\\desktop.ini"
-      ],
-      "folder_name": "Acheron",
-      "mod_id": "Acheron",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.5_78c946b9.zip",
-      "bundle_sha256": "78c946b9c6e8ff922995ea804c32d07e7b050b9622bf3e75c7bcbf62feab63de"
-    },
-    {
-      "name": "AlvaMod",
-      "version": "v0.2.4",
-      "source": "nexus:slaythespire2/mods/1057",
-      "hash": "27a03770237141c2cfd00a6711565d865def4444ec71520d2d975c9efff83299",
-      "files": [
-        "AlvaMod\\AlvaMod.dll",
-        "AlvaMod\\AlvaMod.json",
-        "AlvaMod\\AlvaMod.pck",
-        "AlvaMod\\desktop.ini"
-      ],
-      "folder_name": "AlvaMod",
-      "mod_id": "AlvaMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/AlvaMod_v0.2.4_053eb407.zip",
-      "bundle_sha256": "053eb407967d52d31fe498d047737e3cd4c524feba8a357fb9ccc725981edaf7"
-    },
-    {
-      "name": "ArisMod2",
-      "version": "0.0.2",
-      "source": "nexus:slaythespire2/mods/975",
-      "hash": "c95fbd1bc6e6c9f9c0ce8781dedc6de5088c0638bf47143b2b974d808a2f620d",
-      "files": [
-        "ArisMod2\\ArisMod2.dll",
-        "ArisMod2\\ArisMod2.json",
-        "ArisMod2\\ArisMod2.pck",
-        "ArisMod2\\desktop.ini"
-      ],
-      "folder_name": "ArisMod2",
-      "mod_id": "ArisMod2",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_8cfc3877.zip",
-      "bundle_sha256": "8cfc38778164d9e69469388f10304fb9fcb27385cfc25c1b894da539ec757e59"
-    },
-    {
-      "name": "Ascension Unlocker",
-      "version": "1.0.0",
-      "source": "github:nightbug/AscensionUnlocker",
-      "hash": "5892b583069f2240409864a95e8a2d1d85d20d1dd70ec762821e8ab5c191dbfc",
-      "files": [
-        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.dll",
-        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.json",
-        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\desktop.ini"
-      ],
-      "folder_name": "Ascension Unlocker Multiplayer-214-1-0-1774067733",
-      "mod_id": "AscensionUnlocker",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_4bdc5779.zip",
-      "bundle_sha256": "4bdc57796380938df63b1a282a23a9378e0a8992688ee9d525cb795716db074a"
-    },
-    {
       "name": "BaseLib",
       "version": "v3.2.1",
       "source": "github:Alchyr/BaseLib-StS2",
@@ -87,6 +20,47 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_e3be0f4a.zip",
       "bundle_sha256": "e3be0f4adc379775884caea128ad2d045f203ae350fa31d2e8e519ccbbc27371"
+    },
+    {
+      "name": "RitsuLib",
+      "version": "0.4.22",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "3602c5662fae01ce8aaaad3540f932e988c49eb289109edb31da942faa79a630",
+      "files": [
+        "02_STS2-RitsuLib\\compat-target.txt",
+        "02_STS2-RitsuLib\\desktop.ini",
+        "02_STS2-RitsuLib\\mod_manifest.json",
+        "02_STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "02_STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "02_STS2-RitsuLib\\STS2-RitsuLib.xml",
+        "02_STS2-RitsuLib\\viewer\\assets\\desktop.ini",
+        "02_STS2-RitsuLib\\viewer\\assets\\index.css",
+        "02_STS2-RitsuLib\\viewer\\assets\\index.js",
+        "02_STS2-RitsuLib\\viewer\\desktop.ini",
+        "02_STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "02_STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.22_929c01f2.zip",
+      "bundle_sha256": "929c01f204020b1bd29c5655aa7ba7f9e248e76f7023e3e80212949388c4d1e7"
+    },
+    {
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "nexus:slaythespire2/mods/27",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "03_ModConfig\\desktop.ini",
+        "03_ModConfig\\ModConfig.dll",
+        "03_ModConfig\\ModConfig.json",
+        "03_ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "03_ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_37df3210.zip",
+      "bundle_sha256": "37df32105133323ac97ab02261ff273b309deb686b086e666a7a1d5fb908bb57"
     },
     {
       "name": "Better Mod Menu",
@@ -179,6 +153,32 @@
         "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260613-135750.runstart.json",
         "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260613-144852.runstart.json",
         "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260613-190959.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-044110.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-044345.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-044426.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-044733.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-044844.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-045043.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-045218.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-051647.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-051816.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-052232.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-052340.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-052913.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-053054.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-053300.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-054154.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-054224.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-071623.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-072119.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-072938.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-101334.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260614-111414.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260615-043023.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260615-052326.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260615-052359.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260615-053220.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_profiles.20260615-053247.resume.json",
         "Better Mod Menu 0.0.6\\backups\\mod_settings.20260609-060645.manual.json",
         "Better Mod Menu 0.0.6\\backups\\mod_settings.20260609-060956.runstart.json",
         "Better Mod Menu 0.0.6\\backups\\mod_settings.20260609-061033.resume.json",
@@ -263,6 +263,32 @@
         "Better Mod Menu 0.0.6\\backups\\mod_settings.20260613-135750.runstart.json",
         "Better Mod Menu 0.0.6\\backups\\mod_settings.20260613-144852.runstart.json",
         "Better Mod Menu 0.0.6\\backups\\mod_settings.20260613-190959.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-044110.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-044345.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-044426.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-044733.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-044844.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-045043.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-045218.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-051647.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-051816.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-052232.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-052340.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-052913.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-053054.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-053300.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-054154.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-054224.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-071623.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-072119.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-072938.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-101334.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260614-111414.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260615-043023.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260615-052326.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260615-052359.resume.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260615-053220.runstart.json",
+        "Better Mod Menu 0.0.6\\backups\\mod_settings.20260615-053247.resume.json",
         "Better Mod Menu 0.0.6\\BetterModMenu.dll",
         "Better Mod Menu 0.0.6\\BetterModMenu.json",
         "Better Mod Menu 0.0.6\\desktop.ini",
@@ -271,8 +297,8 @@
       "folder_name": "Better Mod Menu 0.0.6",
       "mod_id": "BetterModMenu",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_25c59a84.zip",
-      "bundle_sha256": "25c59a842aadbb5fd1ef30c326e744e25c40a196379ecb85113a7c90a9002446"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Better_Mod_Menu_v0.0.6_23a9564d.zip",
+      "bundle_sha256": "23a9564d5275fefa43dfac9714e3ac96888846f06c9c8fb8d02b51cce3d52d4f"
     },
     {
       "name": "BetterSaves",
@@ -323,6 +349,60 @@
       "bundle_sha256": "a0eaa97cff269bbce03d60396b24011ddbba4862b3ad2f92d2f44605bed3dc6f"
     },
     {
+      "name": "Ascension Unlocker",
+      "version": "1.0.0",
+      "source": "github:nightbug/AscensionUnlocker",
+      "hash": "5892b583069f2240409864a95e8a2d1d85d20d1dd70ec762821e8ab5c191dbfc",
+      "files": [
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.dll",
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.json",
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\desktop.ini"
+      ],
+      "folder_name": "Ascension Unlocker Multiplayer-214-1-0-1774067733",
+      "mod_id": "AscensionUnlocker",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_4bdc5779.zip",
+      "bundle_sha256": "4bdc57796380938df63b1a282a23a9378e0a8992688ee9d525cb795716db074a"
+    },
+    {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": "nexus:slaythespire2/mods/253",
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "Unlock All\\desktop.ini",
+        "Unlock All\\mod_manifest.json",
+        "Unlock All\\UnlockAllMod.dll",
+        "Unlock All\\UnlockAllMod.pck",
+        "Unlock All\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "Unlock All",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_50d20118.zip",
+      "bundle_sha256": "50d20118ba7c4a17f3e5a3a58a4eb60601a01f6d561defca89a31809b0ba0d81"
+    },
+    {
+      "name": "Map Enhance Mod",
+      "version": "0.8.1",
+      "source": "nexus:slaythespire2/mods/475",
+      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
+      "files": [
+        "Map Enhance Mod\\desktop.ini",
+        "Map Enhance Mod\\map_color_config.json.txt",
+        "Map Enhance Mod\\sts2_map_mod.dll",
+        "Map Enhance Mod\\sts2_map_mod.json",
+        "Map Enhance Mod\\sts2_map_mod.log",
+        "Map Enhance Mod\\sts2_map_mod.pck",
+        "Map Enhance Mod\\sts2_map_mod.previous.log"
+      ],
+      "folder_name": "Map Enhance Mod",
+      "mod_id": "sts2_map_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_a8e092e7.zip",
+      "bundle_sha256": "a8e092e7313c74e7d102ae3a3e52521a22f9b16468afd2a236c97bc18debc783"
+    },
+    {
       "name": "Dynamic Card Rewards",
       "version": "1.1.2",
       "source": null,
@@ -338,6 +418,107 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_a18c3441.zip",
       "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
+    },
+    {
+      "name": "Relic Reward Choice",
+      "version": "1.7.5",
+      "source": null,
+      "hash": "1ab92726d05e57ebb2be8b6d7b80c2738b689924bc88458b4cca9539b671f7c0",
+      "files": [
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\desktop.ini",
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.dll",
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.json"
+      ],
+      "folder_name": "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
+      "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
+    },
+    {
+      "name": "皮皮快连: QuickLink",
+      "version": "0.9.9",
+      "source": "nexus:slaythespire2/mods/280",
+      "hash": "ad235ca67b3c822b4f6cf9d08b4ce31a5cd3e1030c7995fb9be1d9236bce623d",
+      "files": [
+        "QuickLink\\desktop.ini",
+        "QuickLink\\QuickLink.dll",
+        "QuickLink\\QuickLink.json",
+        "QuickLink\\QuickLink.pck"
+      ],
+      "folder_name": "QuickLink",
+      "mod_id": "QuickLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_db3399ef.zip",
+      "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
+    },
+    {
+      "name": "皮皮倒带: Rewind",
+      "version": "0.26.11",
+      "source": "nexus:slaythespire2/mods/211",
+      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
+      "files": [
+        "Rewind\\desktop.ini",
+        "Rewind\\Rewind.dll",
+        "Rewind\\Rewind.json",
+        "Rewind\\Rewind.pck"
+      ],
+      "folder_name": "Rewind",
+      "mod_id": "Rewind",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_2dd28cf3.zip",
+      "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
+    },
+    {
+      "name": "Acheron",
+      "version": "v0.4.5",
+      "source": null,
+      "hash": "9d6ba94436af6c3b41e3535f8b9d24905dfd3e9b9caa6ffd304aecc6100e0ea8",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck",
+        "Acheron\\desktop.ini"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.5_78c946b9.zip",
+      "bundle_sha256": "78c946b9c6e8ff922995ea804c32d07e7b050b9622bf3e75c7bcbf62feab63de"
+    },
+    {
+      "name": "AlvaMod",
+      "version": "v0.2.4",
+      "source": "nexus:slaythespire2/mods/1057",
+      "hash": "27a03770237141c2cfd00a6711565d865def4444ec71520d2d975c9efff83299",
+      "files": [
+        "AlvaMod\\AlvaMod.dll",
+        "AlvaMod\\AlvaMod.json",
+        "AlvaMod\\AlvaMod.pck",
+        "AlvaMod\\desktop.ini"
+      ],
+      "folder_name": "AlvaMod",
+      "mod_id": "AlvaMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/AlvaMod_v0.2.4_053eb407.zip",
+      "bundle_sha256": "053eb407967d52d31fe498d047737e3cd4c524feba8a357fb9ccc725981edaf7"
+    },
+    {
+      "name": "ArisMod2",
+      "version": "0.0.2",
+      "source": "nexus:slaythespire2/mods/975",
+      "hash": "c95fbd1bc6e6c9f9c0ce8781dedc6de5088c0638bf47143b2b974d808a2f620d",
+      "files": [
+        "ArisMod2\\ArisMod2.dll",
+        "ArisMod2\\ArisMod2.json",
+        "ArisMod2\\ArisMod2.pck",
+        "ArisMod2\\desktop.ini"
+      ],
+      "folder_name": "ArisMod2",
+      "mod_id": "ArisMod2",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_8cfc3877.zip",
+      "bundle_sha256": "8cfc38778164d9e69469388f10304fb9fcb27385cfc25c1b894da539ec757e59"
     },
     {
       "name": "Faust",
@@ -390,26 +571,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.3_b64f84a7.zip",
       "bundle_sha256": "b64f84a7d6040b7384a6bcb01aaf0b5d79b4d7b2ec1e42cbc7202b3fc1149b98"
-    },
-    {
-      "name": "Map Enhance Mod",
-      "version": "0.8.1",
-      "source": "nexus:slaythespire2/mods/475",
-      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
-      "files": [
-        "Map Enhance Mod\\desktop.ini",
-        "Map Enhance Mod\\map_color_config.json.txt",
-        "Map Enhance Mod\\sts2_map_mod.dll",
-        "Map Enhance Mod\\sts2_map_mod.json",
-        "Map Enhance Mod\\sts2_map_mod.log",
-        "Map Enhance Mod\\sts2_map_mod.pck",
-        "Map Enhance Mod\\sts2_map_mod.previous.log"
-      ],
-      "folder_name": "Map Enhance Mod",
-      "mod_id": "sts2_map_mod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_9a481d5f.zip",
-      "bundle_sha256": "9a481d5fe70658abdf59b2fa3d6310e1d6f248198e95ae96c19179b1155d2489"
     },
     {
       "name": "MarthCharacterMod",
@@ -467,16 +628,15 @@
       "source": null,
       "hash": "0be956a38eb56685f468a3b82f859a56c342864cf07a4ef1f698d490ab82b874",
       "files": [
-        "Laharl_FullVoiceEdition\\desktop.ini",
-        "Laharl_FullVoiceEdition\\Laharl.dll",
-        "Laharl_FullVoiceEdition\\Laharl.json",
-        "Laharl_FullVoiceEdition\\Laharl.pck"
+        "LaharlMods_NoVoice\\Laharl.dll",
+        "LaharlMods_NoVoice\\Laharl.json",
+        "LaharlMods_NoVoice\\Laharl.pck"
       ],
-      "folder_name": "Laharl_FullVoiceEdition",
+      "folder_name": "LaharlMods_NoVoice",
       "mod_id": "Laharl",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v0.9.3_34e4b525.zip",
-      "bundle_sha256": "34e4b525b9c5643342571c012c5b19153d0849fbfa96068427cfdad0b3bd8ac5"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v0.9.3_8f58d4c5.zip",
+      "bundle_sha256": "8f58d4c5923bed95ce9a679b8ef28f97527ccb7da744efa8f0c946f474b23d76"
     },
     {
       "name": "Raven",
@@ -494,46 +654,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Raven_v0.1.10_61117d76.zip",
       "bundle_sha256": "61117d76e72e268015932b1cced0df4c71b56756fe5403ac6741f5414fca1d41"
-    },
-    {
-      "name": "Relic Reward Choice",
-      "version": "1.7.5",
-      "source": null,
-      "hash": "1ab92726d05e57ebb2be8b6d7b80c2738b689924bc88458b4cca9539b671f7c0",
-      "files": [
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\desktop.ini",
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.dll",
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.json"
-      ],
-      "folder_name": "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410",
-      "mod_id": "RelicRewardChoice",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
-      "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
-    },
-    {
-      "name": "RitsuLib",
-      "version": "0.4.21",
-      "source": "github:BAKAOLC/STS2-RitsuLib",
-      "hash": "3602c5662fae01ce8aaaad3540f932e988c49eb289109edb31da942faa79a630",
-      "files": [
-        "02_STS2-RitsuLib\\compat-target.txt",
-        "02_STS2-RitsuLib\\desktop.ini",
-        "02_STS2-RitsuLib\\mod_manifest.json",
-        "02_STS2-RitsuLib\\STS2-RitsuLib.dll",
-        "02_STS2-RitsuLib\\STS2-RitsuLib.pdb",
-        "02_STS2-RitsuLib\\STS2-RitsuLib.xml",
-        "02_STS2-RitsuLib\\viewer\\assets\\desktop.ini",
-        "02_STS2-RitsuLib\\viewer\\assets\\index.css",
-        "02_STS2-RitsuLib\\viewer\\assets\\index.js",
-        "02_STS2-RitsuLib\\viewer\\desktop.ini",
-        "02_STS2-RitsuLib\\viewer\\index.html"
-      ],
-      "folder_name": "02_STS2-RitsuLib",
-      "mod_id": "STS2-RitsuLib",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.21_3ba8fff0.zip",
-      "bundle_sha256": "3ba8fff0235566081044a5a8e3a3e69078fc1e3e8336040c7a79d781890c6068"
     },
     {
       "name": "Ryoshu",
@@ -2621,32 +2741,12 @@
       "bundle_sha256": "e7ebcec96e68f10c31bbf6ffdb7bf21adf9fa1b2272dfe678f38c6ec559bc11a"
     },
     {
-      "name": "Unlock All",
-      "version": "0.1.0",
-      "source": "nexus:slaythespire2/mods/253",
-      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
-      "files": [
-        "Unlock All\\desktop.ini",
-        "Unlock All\\mod_manifest.json",
-        "Unlock All\\UnlockAllMod.dll",
-        "Unlock All\\UnlockAllMod.pck",
-        "Unlock All\\UnlockAllMod.pdb"
-      ],
-      "folder_name": "Unlock All",
-      "mod_id": "UnlockAllMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_50d20118.zip",
-      "bundle_sha256": "50d20118ba7c4a17f3e5a3a58a4eb60601a01f6d561defca89a31809b0ba0d81"
-    },
-    {
       "name": "Watcher",
       "version": "1.4.15",
       "source": null,
       "hash": "34de66b8ff1b3a6d1d73a3138724cae8719393dcdf43d1b28c708ad74656f7ac",
       "files": [
-        "Watcher\\Watcher\\Watcher.dll",
-        "Watcher\\Watcher\\Watcher.json",
-        "Watcher\\Watcher\\Watcher.pck",
+        "Watcher\\desktop.ini",
         "Watcher\\Watcher.dll",
         "Watcher\\Watcher.json",
         "Watcher\\Watcher.pck"
@@ -2654,8 +2754,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.15_2f1d4b1d.zip",
-      "bundle_sha256": "2f1d4b1d7051aff7baa818987c4855945ef434c1f81c9a13f9e658f0df510980"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.15_1f8193ba.zip",
+      "bundle_sha256": "1f8193baf121ac7e43b0745d83a6de9aeda903f84fa46abfed110dba1471e436"
     },
     {
       "name": "Yanxue",
@@ -2709,57 +2809,6 @@
       "bundle_sha256": "7c32cf96c71cf2c4559e6aa00ffaefdf65ec545895fe1a16df0318cb0e10d80f"
     },
     {
-      "name": "皮皮倒带: Rewind",
-      "version": "0.26.11",
-      "source": "nexus:slaythespire2/mods/211",
-      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
-      "files": [
-        "Rewind\\desktop.ini",
-        "Rewind\\Rewind.dll",
-        "Rewind\\Rewind.json",
-        "Rewind\\Rewind.pck"
-      ],
-      "folder_name": "Rewind",
-      "mod_id": "Rewind",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_2dd28cf3.zip",
-      "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
-    },
-    {
-      "name": "皮皮快连: QuickLink",
-      "version": "0.9.9",
-      "source": "nexus:slaythespire2/mods/280",
-      "hash": "ad235ca67b3c822b4f6cf9d08b4ce31a5cd3e1030c7995fb9be1d9236bce623d",
-      "files": [
-        "QuickLink\\desktop.ini",
-        "QuickLink\\QuickLink.dll",
-        "QuickLink\\QuickLink.json",
-        "QuickLink\\QuickLink.pck"
-      ],
-      "folder_name": "QuickLink",
-      "mod_id": "QuickLink",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_db3399ef.zip",
-      "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
-    },
-    {
-      "name": "皮皮配置: ModConfig",
-      "version": "0.2.3",
-      "source": "nexus:slaythespire2/mods/27",
-      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
-      "files": [
-        "03_ModConfig\\desktop.ini",
-        "03_ModConfig\\ModConfig.dll",
-        "03_ModConfig\\ModConfig.json",
-        "03_ModConfig\\ModConfig.pck"
-      ],
-      "folder_name": "03_ModConfig",
-      "mod_id": "ModConfig",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_37df3210.zip",
-      "bundle_sha256": "37df32105133323ac97ab02261ff273b309deb686b086e666a7a1d5fb908bb57"
-    },
-    {
       "name": "酒狐",
       "version": "1.2.5",
       "source": "nexus:slaythespire2/mods/859",
@@ -2775,25 +2824,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.2.5_a92ff20a.zip",
       "bundle_sha256": "a92ff20abbb09b48a902587149f596bc02332304bc565add1af175f6b675fb6a"
-    },
-    {
-      "name": "魅魔modbeta",
-      "version": "v0.8.9",
-      "source": null,
-      "hash": "95681d064f3e36faf555a899cc622c8a87f2efda39601435ce61ad712e89bba0",
-      "files": [
-        "scbsmod\\ScbsMod.dll",
-        "scbsmod\\ScbsMod.json",
-        "scbsmod\\scbsmod.pck"
-      ],
-      "folder_name": "scbsmod",
-      "mod_id": "scbsmod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/modbeta_v0.8.9_60e6900d.zip",
-      "bundle_sha256": "60e6900d080d084fd85254df5ebbf4f660c9f8d450d0d5253fd02847dfbc7178"
     }
   ],
   "created_at": "2026-06-14T04:09:45.032013300Z",
-  "updated_at": "2026-06-14T04:09:47.435737800Z",
+  "updated_at": "2026-06-15T05:02:12.784735100Z",
   "public": false
 }
