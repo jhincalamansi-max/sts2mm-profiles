@@ -59,6 +59,38 @@
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
+      "name": "BetterSpire2",
+      "version": "v1.83.1",
+      "source": "github:AlecRichardson/BetterSpire2",
+      "hash": "3576938d6036682c4fb71515f5caa8b1023b2f4e57c8acb46b2af5fcddb67447",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\desktop.ini",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang",
+        "BetterSpire2\\desktop.ini"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.1_a0eaa97c.zip",
+      "bundle_sha256": "a0eaa97cff269bbce03d60396b24011ddbba4862b3ad2f92d2f44605bed3dc6f"
+    },
+    {
       "name": "Ascension Unlocker",
       "version": "1.0.0",
       "source": "github:nightbug/AscensionUnlocker",
@@ -75,6 +107,24 @@
       "bundle_sha256": "4bdc57796380938df63b1a282a23a9378e0a8992688ee9d525cb795716db074a"
     },
     {
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": "nexus:slaythespire2/mods/253",
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "Unlock All\\desktop.ini",
+        "Unlock All\\mod_manifest.json",
+        "Unlock All\\UnlockAllMod.dll",
+        "Unlock All\\UnlockAllMod.pck",
+        "Unlock All\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "Unlock All",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_50d20118.zip",
+      "bundle_sha256": "50d20118ba7c4a17f3e5a3a58a4eb60601a01f6d561defca89a31809b0ba0d81"
+    },
+    {
       "name": "BetterSaves",
       "version": "0.4.3",
       "source": "nexus:slaythespire2/mods/372",
@@ -89,6 +139,93 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSaves_v0.4.3_bfc3e5f5.zip",
       "bundle_sha256": "bfc3e5f53654dff3cc1dbded573953d556818b56177da7d686527da8df32442f"
+    },
+    {
+      "name": "Map Enhance Mod",
+      "version": "0.8.1",
+      "source": "nexus:slaythespire2/mods/475",
+      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
+      "files": [
+        "Map Enhance Mod\\desktop.ini",
+        "Map Enhance Mod\\map_color_config.json.txt",
+        "Map Enhance Mod\\sts2_map_mod.dll",
+        "Map Enhance Mod\\sts2_map_mod.json",
+        "Map Enhance Mod\\sts2_map_mod.log",
+        "Map Enhance Mod\\sts2_map_mod.pck",
+        "Map Enhance Mod\\sts2_map_mod.previous.log"
+      ],
+      "folder_name": "Map Enhance Mod",
+      "mod_id": "sts2_map_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_d60cbd18.zip",
+      "bundle_sha256": "d60cbd18c4e6a6cc118dbf13627d0c6fc96db369ccbb4f3c0fb1556248b4459a"
+    },
+    {
+      "name": "Dynamic Card Rewards",
+      "version": "1.1.2",
+      "source": "nexus:slaythespire2/mods/314",
+      "hash": "ed17e8ab5e1649ba636f48e55eeba5727e5107746cb9de01c58a64385960bb48",
+      "files": [
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\desktop.ini",
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.dll",
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.json",
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.pck"
+      ],
+      "folder_name": "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965",
+      "mod_id": "DynamicCardRewards",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_a18c3441.zip",
+      "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
+    },
+    {
+      "name": "Relic Reward Choice",
+      "version": "1.7.5",
+      "source": "nexus:slaythespire2/mods/272",
+      "hash": "1ab92726d05e57ebb2be8b6d7b80c2738b689924bc88458b4cca9539b671f7c0",
+      "files": [
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\desktop.ini",
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.dll",
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.json"
+      ],
+      "folder_name": "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
+      "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
+    },
+    {
+      "name": "皮皮快连: QuickLink",
+      "version": "0.9.9",
+      "source": "nexus:slaythespire2/mods/280",
+      "hash": "ad235ca67b3c822b4f6cf9d08b4ce31a5cd3e1030c7995fb9be1d9236bce623d",
+      "files": [
+        "QuickLink\\desktop.ini",
+        "QuickLink\\QuickLink.dll",
+        "QuickLink\\QuickLink.json",
+        "QuickLink\\QuickLink.pck"
+      ],
+      "folder_name": "QuickLink",
+      "mod_id": "QuickLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_db3399ef.zip",
+      "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
+    },
+    {
+      "name": "皮皮倒带: Rewind",
+      "version": "0.26.11",
+      "source": "nexus:slaythespire2/mods/211",
+      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
+      "files": [
+        "Rewind\\desktop.ini",
+        "Rewind\\Rewind.dll",
+        "Rewind\\Rewind.json",
+        "Rewind\\Rewind.pck"
+      ],
+      "folder_name": "Rewind",
+      "mod_id": "Rewind",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_2dd28cf3.zip",
+      "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
     },
     {
       "name": "Acheron",
@@ -158,55 +295,6 @@
       "bundle_sha256": "267553cf226399e0a8b48a31cd794f351d0030b7a4de60227657d466f740ad0e"
     },
     {
-      "name": "BetterSpire2",
-      "version": "v1.83.1",
-      "source": "github:AlecRichardson/BetterSpire2",
-      "hash": "3576938d6036682c4fb71515f5caa8b1023b2f4e57c8acb46b2af5fcddb67447",
-      "files": [
-        "BetterSpire2\\BetterSpire2.dll",
-        "BetterSpire2\\BetterSpire2.json",
-        "BetterSpire2\\BetterSpire2_localization\\desktop.ini",
-        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
-        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
-        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
-        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
-        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
-        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
-        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
-        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
-        "BetterSpire2\\BetterSpire2_localization\\README.txt",
-        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
-        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
-        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
-        "BetterSpire2\\BetterSpire2_localization\\zhs.lang",
-        "BetterSpire2\\desktop.ini"
-      ],
-      "folder_name": "BetterSpire2",
-      "mod_id": "BetterSpire2",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.1_a0eaa97c.zip",
-      "bundle_sha256": "a0eaa97cff269bbce03d60396b24011ddbba4862b3ad2f92d2f44605bed3dc6f"
-    },
-    {
-      "name": "Dynamic Card Rewards",
-      "version": "1.1.2",
-      "source": "nexus:slaythespire2/mods/314",
-      "hash": "ed17e8ab5e1649ba636f48e55eeba5727e5107746cb9de01c58a64385960bb48",
-      "files": [
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\desktop.ini",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.dll",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.json",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.pck"
-      ],
-      "folder_name": "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965",
-      "mod_id": "DynamicCardRewards",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_a18c3441.zip",
-      "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
-    },
-    {
       "name": "Faust",
       "version": "0.1.7.beta",
       "source": "github:robinhood/faust",
@@ -256,26 +344,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.4_557588a3.zip",
       "bundle_sha256": "557588a31cd22a36c95549ed0d8afdfbf2ad767649a6032fc72260a07b3f10cf"
-    },
-    {
-      "name": "Map Enhance Mod",
-      "version": "0.8.1",
-      "source": "nexus:slaythespire2/mods/475",
-      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
-      "files": [
-        "Map Enhance Mod\\desktop.ini",
-        "Map Enhance Mod\\map_color_config.json.txt",
-        "Map Enhance Mod\\sts2_map_mod.dll",
-        "Map Enhance Mod\\sts2_map_mod.json",
-        "Map Enhance Mod\\sts2_map_mod.log",
-        "Map Enhance Mod\\sts2_map_mod.pck",
-        "Map Enhance Mod\\sts2_map_mod.previous.log"
-      ],
-      "folder_name": "Map Enhance Mod",
-      "mod_id": "sts2_map_mod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_d60cbd18.zip",
-      "bundle_sha256": "d60cbd18c4e6a6cc118dbf13627d0c6fc96db369ccbb4f3c0fb1556248b4459a"
     },
     {
       "name": "MeiLinMod",
@@ -345,22 +413,6 @@
       "bundle_sha256": "61117d76e72e268015932b1cced0df4c71b56756fe5403ac6741f5414fca1d41"
     },
     {
-      "name": "Relic Reward Choice",
-      "version": "1.7.5",
-      "source": "nexus:slaythespire2/mods/272",
-      "hash": "1ab92726d05e57ebb2be8b6d7b80c2738b689924bc88458b4cca9539b671f7c0",
-      "files": [
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\desktop.ini",
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.dll",
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.json"
-      ],
-      "folder_name": "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410",
-      "mod_id": "RelicRewardChoice",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
-      "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
-    },
-    {
       "name": "Ryoshu",
       "version": "0.3.5.beta",
       "source": "github:urkr14/ryoshu1",
@@ -392,24 +444,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Stoner_Expansion_v0.3.0_ae872fdb.zip",
       "bundle_sha256": "ae872fdbc1ad00221845a244398774ac27833e3b9756d611ca65e8a043ba5b78"
-    },
-    {
-      "name": "Unlock All",
-      "version": "0.1.0",
-      "source": "nexus:slaythespire2/mods/253",
-      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
-      "files": [
-        "Unlock All\\desktop.ini",
-        "Unlock All\\mod_manifest.json",
-        "Unlock All\\UnlockAllMod.dll",
-        "Unlock All\\UnlockAllMod.pck",
-        "Unlock All\\UnlockAllMod.pdb"
-      ],
-      "folder_name": "Unlock All",
-      "mod_id": "UnlockAllMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_50d20118.zip",
-      "bundle_sha256": "50d20118ba7c4a17f3e5a3a58a4eb60601a01f6d561defca89a31809b0ba0d81"
     },
     {
       "name": "Watcher",
@@ -445,40 +479,6 @@
       "bundle_sha256": "ba441bd33f9e300dfa193b8eaa36e280f340b554a631fd3362afd8fd2552402b"
     },
     {
-      "name": "皮皮倒带: Rewind",
-      "version": "0.26.11",
-      "source": "nexus:slaythespire2/mods/211",
-      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
-      "files": [
-        "Rewind\\desktop.ini",
-        "Rewind\\Rewind.dll",
-        "Rewind\\Rewind.json",
-        "Rewind\\Rewind.pck"
-      ],
-      "folder_name": "Rewind",
-      "mod_id": "Rewind",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_2dd28cf3.zip",
-      "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
-    },
-    {
-      "name": "皮皮快连: QuickLink",
-      "version": "0.9.9",
-      "source": "nexus:slaythespire2/mods/280",
-      "hash": "ad235ca67b3c822b4f6cf9d08b4ce31a5cd3e1030c7995fb9be1d9236bce623d",
-      "files": [
-        "QuickLink\\desktop.ini",
-        "QuickLink\\QuickLink.dll",
-        "QuickLink\\QuickLink.json",
-        "QuickLink\\QuickLink.pck"
-      ],
-      "folder_name": "QuickLink",
-      "mod_id": "QuickLink",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_db3399ef.zip",
-      "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
-    },
-    {
       "name": "Construct构装师",
       "version": "1.0",
       "source": "nexus:slaythespire2/mods/1271",
@@ -512,6 +512,6 @@
     }
   ],
   "created_at": "2026-06-15T11:20:52.877562400Z",
-  "updated_at": "2026-06-16T07:23:52.571425700Z",
+  "updated_at": "2026-06-16T07:30:35.868195300Z",
   "public": false
 }
