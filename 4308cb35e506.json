@@ -475,9 +475,25 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/YukiMod_v0.0.4_ba441bd3.zip",
       "bundle_sha256": "ba441bd33f9e300dfa193b8eaa36e280f340b554a631fd3362afd8fd2552402b"
+    },
+    {
+      "name": "Construct构装师",
+      "version": "1.0",
+      "source": "nexus:slaythespire2/mods/1271",
+      "hash": "54eb7db35f9fcaa10784504bf9401e5e94d580d3747c148ca19013827ddfddd2",
+      "files": [
+        "Construct\\Construct.dll",
+        "Construct\\Construct.json",
+        "Construct\\Construct.pck"
+      ],
+      "folder_name": "Construct",
+      "mod_id": "Construct",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Construct._v1.0_0477f9f8.zip",
+      "bundle_sha256": "0477f9f890c5b5ef186ccf0bb6f332204982349f31aa2d7a97cc7e7bf94e006b"
     }
   ],
   "created_at": "2026-06-15T11:20:52.877562400Z",
-  "updated_at": "2026-06-17T07:42:18.185377800Z",
+  "updated_at": "2026-06-17T07:50:22.814864600Z",
   "public": false
 }
