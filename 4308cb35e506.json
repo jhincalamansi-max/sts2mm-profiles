@@ -23,7 +23,7 @@
     },
     {
       "name": "RitsuLib",
-      "version": "0.4.23",
+      "version": "0.4.24",
       "source": "github:BAKAOLC/STS2-RitsuLib",
       "hash": "695cd7ee6936c583c0bf0dca7c096fbab55cec4ea9ad7f43e7e9df3b2c74d07b",
       "files": [
@@ -39,8 +39,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.23_f5ca7084.zip",
-      "bundle_sha256": "f5ca7084a7db8f00a348f6d30093951b47d39f2d12267abb81ed20b39b91d744"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.24_821a0e90.zip",
+      "bundle_sha256": "821a0e90b8d34a1f3ab6a0eb6dd18e853e74277d82d7188ca3ab164da8284b57"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -157,8 +157,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_d60cbd18.zip",
-      "bundle_sha256": "d60cbd18c4e6a6cc118dbf13627d0c6fc96db369ccbb4f3c0fb1556248b4459a"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_d50f863d.zip",
+      "bundle_sha256": "d50f863da7d922adbfdb5afc6ba1a35c7d1854bf05dcce99fc844b9a8a914eae"
     },
     {
       "name": "Dynamic Card Rewards",
@@ -317,7 +317,6 @@
       "source": "nexus:slaythespire2/mods/1153",
       "hash": "4591bcbbbda4213aff31cabcfe2251308d31355d9c353a29d16de2d7214dbd4e",
       "files": [
-        "HeathcliffWildHunt-beta\\desktop.ini",
         "HeathcliffWildHunt-beta\\HeathcliffWildHunt.dll",
         "HeathcliffWildHunt-beta\\HeathcliffWildHunt.json",
         "HeathcliffWildHunt-beta\\HeathcliffWildHunt.pck",
@@ -326,8 +325,8 @@
       "folder_name": "HeathcliffWildHunt-beta",
       "mod_id": "HeathcliffWildHunt",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Heathcliff_Wild_Hunt_v0.0.1_646624ea.zip",
-      "bundle_sha256": "646624eab698654e2d5bbfd9097e4129bf6162a1c15e6110734082b24a9f9316"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Heathcliff_Wild_Hunt_v0.0.1_005072e9.zip",
+      "bundle_sha256": "005072e92a1abefeea1c6c520695c6ab9fd78e1d6a519ea30ac060f25a921a99"
     },
     {
       "name": "Kafka",
@@ -401,16 +400,15 @@
       "source": "nexus:slaythespire2/mods/927",
       "hash": "819b12abfcda86106e06616badaaf34da0da40ebfb8d3110192f7ace762cba4f",
       "files": [
-        "RavenMod\\desktop.ini",
-        "RavenMod\\RavenMod.dll",
-        "RavenMod\\RavenMod.json",
-        "RavenMod\\RavenMod.pck"
+        "RavenMod\\RavenMod\\RavenMod.dll",
+        "RavenMod\\RavenMod\\RavenMod.json",
+        "RavenMod\\RavenMod\\RavenMod.pck"
       ],
       "folder_name": "RavenMod",
       "mod_id": "RavenMod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Raven_v0.1.10_61117d76.zip",
-      "bundle_sha256": "61117d76e72e268015932b1cced0df4c71b56756fe5403ac6741f5414fca1d41"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Raven_v0.1.10_dc0c8ee0.zip",
+      "bundle_sha256": "dc0c8ee07e2badde1d51d07e0a5aa8811685791b8f011ede4c3cc400049a6994"
     },
     {
       "name": "Ryoshu",
@@ -447,7 +445,7 @@
     },
     {
       "name": "Watcher",
-      "version": "1.4.16",
+      "version": "1.4.17",
       "source": "nexus:slaythespire2/mods/46",
       "hash": "34de66b8ff1b3a6d1d73a3138724cae8719393dcdf43d1b28c708ad74656f7ac",
       "files": [
@@ -458,8 +456,8 @@
       "folder_name": "Watcher",
       "mod_id": "Watcher",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.16_85683c67.zip",
-      "bundle_sha256": "85683c6729ec2aa4c748e9a73131a9a7d17686f9a2798a81c463d58fc80a6f78"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.17_a76edd1f.zip",
+      "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
     },
     {
       "name": "YukiMod",
@@ -477,41 +475,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/YukiMod_v0.0.4_ba441bd3.zip",
       "bundle_sha256": "ba441bd33f9e300dfa193b8eaa36e280f340b554a631fd3362afd8fd2552402b"
-    },
-    {
-      "name": "Construct构装师",
-      "version": "1.0",
-      "source": "nexus:slaythespire2/mods/1271",
-      "hash": "54eb7db35f9fcaa10784504bf9401e5e94d580d3747c148ca19013827ddfddd2",
-      "files": [
-        "Construct\\Construct.dll",
-        "Construct\\Construct.json",
-        "Construct\\Construct.pck"
-      ],
-      "folder_name": "Construct",
-      "mod_id": "Construct",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Construct._v1.0_d871a531.zip",
-      "bundle_sha256": "d871a531d10814b0e1d258317b7251fd90253525fae1f590ca5353b447e827c5"
-    },
-    {
-      "name": "酒狐",
-      "version": "1.2.6",
-      "source": "nexus:slaythespire2/mods/859",
-      "hash": "13c97e2fdc29992665320c7bebce93b15e5a67f17bff678f21b01a6a212abe77",
-      "files": [
-        "STS2_WineFox\\mod_manifest.json",
-        "STS2_WineFox\\STS2_WineFox.dll",
-        "STS2_WineFox\\STS2_WineFox.pck"
-      ],
-      "folder_name": "STS2_WineFox",
-      "mod_id": "STS2_WineFox",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/_v1.2.6_459a4ea9.zip",
-      "bundle_sha256": "459a4ea93caf8a627f9a8cf22225c5d6214ae6da15c75b067522d8ad42a81f55"
     }
   ],
   "created_at": "2026-06-15T11:20:52.877562400Z",
-  "updated_at": "2026-06-16T07:30:35.868195300Z",
+  "updated_at": "2026-06-17T07:42:18.185377800Z",
   "public": false
 }
