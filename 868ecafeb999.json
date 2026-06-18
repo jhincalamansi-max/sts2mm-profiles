@@ -5,6 +5,7 @@
   "created_by": "jhincalamansi-max",
   "mods": [
     {
+      "mod_version_id": "f45c0d59-860b-406a-a6e3-61dd9140414a",
       "name": "BaseLib",
       "version": "v3.2.1",
       "source": "github:Alchyr/BaseLib-StS2",
@@ -22,6 +23,7 @@
       "bundle_sha256": "e3be0f4adc379775884caea128ad2d045f203ae350fa31d2e8e519ccbbc27371"
     },
     {
+      "mod_version_id": "54b5c7d3-c285-4240-aad0-616d27e42ac3",
       "name": "RitsuLib",
       "version": "0.4.24",
       "source": "github:BAKAOLC/STS2-RitsuLib",
@@ -43,6 +45,7 @@
       "bundle_sha256": "821a0e90b8d34a1f3ab6a0eb6dd18e853e74277d82d7188ca3ab164da8284b57"
     },
     {
+      "mod_version_id": "87b9376c-f0a0-4e68-8d6b-a5edc1d3bf17",
       "name": "皮皮配置: ModConfig",
       "version": "0.2.3",
       "source": "nexus:slaythespire2/mods/27",
@@ -59,6 +62,7 @@
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
     },
     {
+      "mod_version_id": "be9c9555-410a-4339-8440-848d1028a3ba",
       "name": "Ascension Unlocker",
       "version": "1.0.0",
       "source": "github:nightbug/AscensionUnlocker",
@@ -75,9 +79,10 @@
       "bundle_sha256": "4bdc57796380938df63b1a282a23a9378e0a8992688ee9d525cb795716db074a"
     },
     {
+      "mod_version_id": "d9205045-0cbf-4954-850b-28abeccfd051",
       "name": "Ascension+",
       "version": "1.0.0",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/1111",
       "hash": "45eb965a2aaf1f6b0ebe229ae7b0104b928352132783833ca3fae9f790c206f7",
       "files": [
         "AscensionPlus\\AscensionPlus.dll",
@@ -91,6 +96,7 @@
       "bundle_sha256": "6687877e6807a9c658f6f43036839989c49e2a2c7651b1ffb039448ad62bc783"
     },
     {
+      "mod_version_id": "17867569-5992-405f-9e0b-8b61361e041c",
       "name": "Unlock All",
       "version": "0.1.0",
       "source": "nexus:slaythespire2/mods/253",
@@ -109,6 +115,7 @@
       "bundle_sha256": "50d20118ba7c4a17f3e5a3a58a4eb60601a01f6d561defca89a31809b0ba0d81"
     },
     {
+      "mod_version_id": "e6be346e-8943-40d3-9fb7-5f455f40afa9",
       "name": "BetterSaves",
       "version": "0.4.3",
       "source": "nexus:slaythespire2/mods/372",
@@ -125,6 +132,7 @@
       "bundle_sha256": "bfc3e5f53654dff3cc1dbded573953d556818b56177da7d686527da8df32442f"
     },
     {
+      "mod_version_id": "4d9bb48a-d196-4c98-80c5-38f055d2a938",
       "name": "BetterSpire2",
       "version": "v1.83.1",
       "source": "github:AlecRichardson/BetterSpire2",
@@ -157,6 +165,7 @@
       "bundle_sha256": "a0eaa97cff269bbce03d60396b24011ddbba4862b3ad2f92d2f44605bed3dc6f"
     },
     {
+      "mod_version_id": "96cded64-b53e-4263-b412-a3d25860cd5c",
       "name": "Map Enhance Mod",
       "version": "0.8.1",
       "source": "nexus:slaythespire2/mods/475",
@@ -173,10 +182,11 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_f6ef940f.zip",
-      "bundle_sha256": "f6ef940fc4367e44a153bc8d2148a60decb5f09fcae3c1c346b8c215280ab43d"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_9533abf6.zip",
+      "bundle_sha256": "9533abf6ab71e1d7d3871b1c8dc8f1cfba3bed15be69c879074a11ce22eeb0f5"
     },
     {
+      "mod_version_id": "e98c83b7-2739-4af4-9ad7-8e4a9e4c9519",
       "name": "Dynamic Card Rewards",
       "version": "1.1.2",
       "source": "nexus:slaythespire2/mods/314",
@@ -194,6 +204,7 @@
       "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
     },
     {
+      "mod_version_id": "04793e3f-4107-483e-b8c6-f0d77a072e85",
       "name": "Relic Reward Choice",
       "version": "1.7.5",
       "source": "nexus:slaythespire2/mods/272",
@@ -210,6 +221,7 @@
       "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
     },
     {
+      "mod_version_id": "42e82570-f2b7-4886-a39e-b053c1583bd0",
       "name": "皮皮倒带: Rewind",
       "version": "0.26.11",
       "source": "nexus:slaythespire2/mods/211",
@@ -227,6 +239,7 @@
       "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
     },
     {
+      "mod_version_id": "2df209b7-5f77-4db9-a859-7b66bf054b4d",
       "name": "皮皮快连: QuickLink",
       "version": "0.9.9",
       "source": "nexus:slaythespire2/mods/280",
@@ -244,6 +257,7 @@
       "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
     },
     {
+      "mod_version_id": "bb67b2eb-7992-4a57-91e2-62cf38800421",
       "name": "CardFusion.deps",
       "version": "0.0.0",
       "source": "nexus:slaythespire2/mods/1288",
@@ -261,6 +275,7 @@
       "bundle_sha256": "c820c322354965639023c0c8f02c293a62206ce18f1d784bbe031a0b27cf0625"
     },
     {
+      "mod_version_id": "90e2c0e3-757e-403b-808d-a37da4acc946",
       "name": "Start With Miniature Tent",
       "version": "1.0.0",
       "source": null,
@@ -277,6 +292,7 @@
       "bundle_sha256": "3e9e776aee50065221479dc5dcf63176930b794f678f6b4461eeb3c7f4079f9c"
     },
     {
+      "mod_version_id": "de4922c6-4856-4126-a16e-fe135aa6f654",
       "name": "Acheron",
       "version": "v0.4.6",
       "source": "nexus:slaythespire2/mods/1030",
@@ -293,23 +309,7 @@
       "bundle_sha256": "5c9bbb1db838c760b52a308af380df9de3be2b94de85dd49fc1b3d3556758bc6"
     },
     {
-      "name": "AlvaMod",
-      "version": "v0.2.4",
-      "source": "nexus:slaythespire2/mods/1057",
-      "hash": "27a03770237141c2cfd00a6711565d865def4444ec71520d2d975c9efff83299",
-      "files": [
-        "AlvaMod\\AlvaMod.dll",
-        "AlvaMod\\AlvaMod.json",
-        "AlvaMod\\AlvaMod.pck",
-        "AlvaMod\\desktop.ini"
-      ],
-      "folder_name": "AlvaMod",
-      "mod_id": "AlvaMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/AlvaMod_v0.2.4_053eb407.zip",
-      "bundle_sha256": "053eb407967d52d31fe498d047737e3cd4c524feba8a357fb9ccc725981edaf7"
-    },
-    {
+      "mod_version_id": "42141fd8-8887-429e-ac27-5fa0544ce36d",
       "name": "ArisMod2",
       "version": "0.0.2",
       "source": "nexus:slaythespire2/mods/975",
@@ -327,6 +327,7 @@
       "bundle_sha256": "8cfc38778164d9e69469388f10304fb9fcb27385cfc25c1b894da539ec757e59"
     },
     {
+      "mod_version_id": "2c3144e9-3173-4cd2-b0b0-1f1ec5505ecf",
       "name": "Construct构装师",
       "version": "1.0",
       "source": "nexus:slaythespire2/mods/1271",
@@ -343,6 +344,7 @@
       "bundle_sha256": "0477f9f890c5b5ef186ccf0bb6f332204982349f31aa2d7a97cc7e7bf94e006b"
     },
     {
+      "mod_version_id": "e612f6ec-db7d-493f-b432-7d08590f92c6",
       "name": "Evanescia",
       "version": "v0.2.1",
       "source": null,
@@ -359,6 +361,7 @@
       "bundle_sha256": "fb0335b0ecfda2909549cf33cece13ab8f4d536c6fa8b58cf095ff531224327c"
     },
     {
+      "mod_version_id": "607ebaaf-b81d-4777-bc30-d291aa318ed3",
       "name": "Faust",
       "version": "0.1.7.beta",
       "source": "github:robinhood/faust",
@@ -376,6 +379,7 @@
       "bundle_sha256": "71929805a6b1b5c5e364882f0a68af2f555dd7b618e26e9cb3b60946b745ef94"
     },
     {
+      "mod_version_id": "96fa4b6b-5a7f-434a-89e0-a760482327bf",
       "name": "Heathcliff Wild Hunt",
       "version": "0.0.1",
       "source": "nexus:slaythespire2/mods/1153",
@@ -393,6 +397,7 @@
       "bundle_sha256": "005072e92a1abefeea1c6c520695c6ab9fd78e1d6a519ea30ac060f25a921a99"
     },
     {
+      "mod_version_id": "6f1e8709-e4f6-4897-af20-b82709dfa47c",
       "name": "Kafka",
       "version": "v0.12.4",
       "source": "nexus:slaythespire2/mods/1029",
@@ -409,6 +414,7 @@
       "bundle_sha256": "557588a31cd22a36c95549ed0d8afdfbf2ad767649a6032fc72260a07b3f10cf"
     },
     {
+      "mod_version_id": "a9bd19ad-3651-480b-9b02-155b08b7139d",
       "name": "MeiLinMod",
       "version": "v0.2.6",
       "source": "nexus:slaythespire2/mods/346",
@@ -426,6 +432,7 @@
       "bundle_sha256": "50b7aac574858d1f6499186705f03e52b9a2aee327d9626e58cafc6631f81d55"
     },
     {
+      "mod_version_id": "dc7ceca9-daaf-4914-b66b-34f57800f4da",
       "name": "Natsumi",
       "version": "0.1.7",
       "source": "github:greeeen-dev/natsumi-browser",
@@ -443,6 +450,7 @@
       "bundle_sha256": "95c1afbd62ada56662c312c4427709b1cc1e6cead04b57655b7891025aa7d71a"
     },
     {
+      "mod_version_id": "9064b63f-f248-4811-88cd-c4bb2976798d",
       "name": "Overlord Laharl",
       "version": "v0.9.3",
       "source": "nexus:slaythespire2/mods/824",
@@ -459,6 +467,7 @@
       "bundle_sha256": "8f58d4c5923bed95ce9a679b8ef28f97527ccb7da744efa8f0c946f474b23d76"
     },
     {
+      "mod_version_id": "507a4533-87fe-4592-890a-7e891ed35ab8",
       "name": "Raven",
       "version": "v0.1.10",
       "source": "nexus:slaythespire2/mods/927",
@@ -475,6 +484,7 @@
       "bundle_sha256": "dc0c8ee07e2badde1d51d07e0a5aa8811685791b8f011ede4c3cc400049a6994"
     },
     {
+      "mod_version_id": "318f86ec-aadf-4585-94cb-89272c59c9e5",
       "name": "Ryoshu",
       "version": "0.3.5.beta",
       "source": "github:urkr14/ryoshu1",
@@ -492,6 +502,7 @@
       "bundle_sha256": "8453437ada666d0fecbbc44ee065a5b0c2a056af81e3b06bb287547adc5c8814"
     },
     {
+      "mod_version_id": "4369b493-7251-4103-9a2d-7124d4f4d9fd",
       "name": "Stoner Expansion",
       "version": "0.3.0",
       "source": "nexus:slaythespire2/mods/1172",
@@ -508,6 +519,7 @@
       "bundle_sha256": "ae872fdbc1ad00221845a244398774ac27833e3b9756d611ca65e8a043ba5b78"
     },
     {
+      "mod_version_id": "e651373b-eb8e-4a1e-a278-804ddfcab2e1",
       "name": "Watcher",
       "version": "1.4.17",
       "source": "nexus:slaythespire2/mods/46",
@@ -524,6 +536,7 @@
       "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
     },
     {
+      "mod_version_id": "ca7bb069-2813-4cf8-8501-c153fad31804",
       "name": "YukiMod",
       "version": "v0.0.4",
       "source": "nexus:slaythespire2/mods/1147",
@@ -542,6 +555,6 @@
     }
   ],
   "created_at": "2026-06-17T07:53:26.202998300Z",
-  "updated_at": "2026-06-18T06:47:39.621192800Z",
+  "updated_at": "2026-06-18T22:54:10.938734500Z",
   "public": false
 }
