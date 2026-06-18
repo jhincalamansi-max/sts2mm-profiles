@@ -157,8 +157,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_d50f863d.zip",
-      "bundle_sha256": "d50f863da7d922adbfdb5afc6ba1a35c7d1854bf05dcce99fc844b9a8a914eae"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_92465348.zip",
+      "bundle_sha256": "92465348df059d0fa90a265c8dc174e4d84937f04d52c72675a90d971de00d05"
     },
     {
       "name": "Dynamic Card Rewards",
@@ -228,6 +228,55 @@
       "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
     },
     {
+      "name": "CardFusion.deps",
+      "version": "0.0.0",
+      "source": "nexus:slaythespire2/mods/1288",
+      "hash": "dbca2843332141296186a1b73589867a6f03e3dce62b38533fb6dded45c35889",
+      "files": [
+        "CardFusion\\CardFusion.deps.json",
+        "CardFusion\\CardFusion.dll",
+        "CardFusion\\CardFusion.json",
+        "CardFusion\\CardFusion.pck",
+        "CardFusion\\CardFusion.pdb"
+      ],
+      "folder_name": "CardFusion",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/CardFusion_deps_v0.0.0_c820c322.zip",
+      "bundle_sha256": "c820c322354965639023c0c8f02c293a62206ce18f1d784bbe031a0b27cf0625"
+    },
+    {
+      "name": "Start With Miniature Tent",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "0d3ebf071b42443881b317f0f6de32c2bc268d106bb49004ab6b5f0627f784a6",
+      "files": [
+        "StartWithMiniatureTent\\StartWithMiniTent.dll",
+        "StartWithMiniatureTent\\StartWithMiniTent.json",
+        "StartWithMiniatureTent\\StartWithMiniTent.pck"
+      ],
+      "folder_name": "StartWithMiniatureTent",
+      "mod_id": "StartWithMiniTent",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Start_With_Miniature_Tent_v1.0.0_3e9e776a.zip",
+      "bundle_sha256": "3e9e776aee50065221479dc5dcf63176930b794f678f6b4461eeb3c7f4079f9c"
+    },
+    {
+      "name": "Codex Endless Mode",
+      "version": "0.2.10",
+      "source": null,
+      "hash": "d61179025e56036700615d6ae8f6c56fcb3cdfe9c6c52592d2c71452ba3c5613",
+      "files": [
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_828443a1.zip",
+      "bundle_sha256": "828443a1c3cb13344b48ef141f85be5e248bba2c58dc910092bf9c7ded3ed528"
+    },
+    {
       "name": "Acheron",
       "version": "v0.4.6",
       "source": "nexus:slaythespire2/mods/1030",
@@ -278,23 +327,6 @@
       "bundle_sha256": "8cfc38778164d9e69469388f10304fb9fcb27385cfc25c1b894da539ec757e59"
     },
     {
-      "name": "Beta古明地恋-Komeiji Koishi",
-      "version": "v1.07.63",
-      "source": "nexus:slaythespire2/mods/1274",
-      "hash": "513b5796eb2b255f270d1ad42126a456d4cee2770a3a23381de25dfb7c4b506d",
-      "files": [
-        "Beta版Koishi-mod-1.07.63\\EcoLib.dll",
-        "Beta版Koishi-mod-1.07.63\\Koishi.dll",
-        "Beta版Koishi-mod-1.07.63\\Koishi.json",
-        "Beta版Koishi-mod-1.07.63\\Koishi.pck"
-      ],
-      "folder_name": "Beta版Koishi-mod-1.07.63",
-      "mod_id": "Koishi",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Beta.-Komeiji_Koishi_v1.07.63_267553cf.zip",
-      "bundle_sha256": "267553cf226399e0a8b48a31cd794f351d0030b7a4de60227657d466f740ad0e"
-    },
-    {
       "name": "Construct构装师",
       "version": "1.0",
       "source": "nexus:slaythespire2/mods/1271",
@@ -309,6 +341,22 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Construct._v1.0_0477f9f8.zip",
       "bundle_sha256": "0477f9f890c5b5ef186ccf0bb6f332204982349f31aa2d7a97cc7e7bf94e006b"
+    },
+    {
+      "name": "Evanescia",
+      "version": "v0.2.1",
+      "source": null,
+      "hash": "4b4a105dc8c15a2a8e9da6f313ec8494ab9a237fd224e706c16fd1b388d9e46e",
+      "files": [
+        "Evanescia\\Evanescia.dll",
+        "Evanescia\\Evanescia.json",
+        "Evanescia\\Evanescia.pck"
+      ],
+      "folder_name": "Evanescia",
+      "mod_id": "Evanescia",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.1_fb0335b0.zip",
+      "bundle_sha256": "fb0335b0ecfda2909549cf33cece13ab8f4d536c6fa8b58cf095ff531224327c"
     },
     {
       "name": "Faust",
@@ -494,6 +542,6 @@
     }
   ],
   "created_at": "2026-06-17T07:53:26.202998300Z",
-  "updated_at": "2026-06-17T07:56:13.645077600Z",
+  "updated_at": "2026-06-18T03:27:32.799332900Z",
   "public": false
 }
