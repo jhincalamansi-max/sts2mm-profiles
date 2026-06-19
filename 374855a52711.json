@@ -165,8 +165,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_5ac616ea.zip",
-      "bundle_sha256": "5ac616ead6718a7ace4fd7e93e1b775e2b453d71522db295326ad96f35057168"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_1a908a06.zip",
+      "bundle_sha256": "1a908a0687fea6569a29d4e187789a6e5882e988a72590d94297f8429acb9404"
     },
     {
       "mod_version_id": "2df209b7-5f77-4db9-a859-7b66bf054b4d",
@@ -237,27 +237,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.17_a76edd1f.zip",
       "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
-    },
-    {
-      "mod_version_id": "e98c83b7-2739-4af4-9ad7-8e4a9e4c9519",
-      "name": "Dynamic Card Rewards",
-      "version": "1.1.2",
-      "source": "nexus:slaythespire2/mods/314",
-      "hash": "ed17e8ab5e1649ba636f48e55eeba5727e5107746cb9de01c58a64385960bb48",
-      "files": [
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\desktop.ini",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.dll",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.json",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.pck"
-      ],
-      "folder_name": "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965",
-      "mod_id": "DynamicCardRewards",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_a18c3441.zip",
-      "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
     }
   ],
   "created_at": "2026-06-19T15:40:17.076474200Z",
-  "updated_at": "2026-06-19T16:51:57.449477100Z",
+  "updated_at": "2026-06-19T16:54:54.410558300Z",
   "public": false
 }
