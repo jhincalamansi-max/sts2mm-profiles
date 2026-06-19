@@ -165,8 +165,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_8e03147d.zip",
-      "bundle_sha256": "8e03147d989a8781e23795f4cf5274521773176fafbe9c7e855e3ff28746b835"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_9393d682.zip",
+      "bundle_sha256": "9393d6826a2b84011c4d41503ae41b5a6399178b52b772600239aadd358739b8"
     },
     {
       "mod_version_id": "42e82570-f2b7-4886-a39e-b053c1583bd0",
@@ -256,40 +256,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/CardFusion_deps_v0.0.0_62bf1c33.zip",
       "bundle_sha256": "62bf1c3323c4a7267041ea2886dda2475046c0a5bf30eef93346a3b5cadc741f"
-    },
-    {
-      "mod_version_id": "90e2c0e3-757e-403b-808d-a37da4acc946",
-      "name": "Start With Miniature Tent",
-      "version": "1.0.0",
-      "source": null,
-      "hash": "0d3ebf071b42443881b317f0f6de32c2bc268d106bb49004ab6b5f0627f784a6",
-      "files": [
-        "StartWithMiniatureTent\\StartWithMiniTent.dll",
-        "StartWithMiniatureTent\\StartWithMiniTent.json",
-        "StartWithMiniatureTent\\StartWithMiniTent.pck"
-      ],
-      "folder_name": "StartWithMiniatureTent",
-      "mod_id": "StartWithMiniTent",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Start_With_Miniature_Tent_v1.0.0_3e9e776a.zip",
-      "bundle_sha256": "3e9e776aee50065221479dc5dcf63176930b794f678f6b4461eeb3c7f4079f9c"
-    },
-    {
-      "mod_version_id": "564f2c2d-1a83-49fb-a3e0-b0d5a4f5812c",
-      "name": "Codex Endless Mode",
-      "version": "0.2.10",
-      "source": null,
-      "hash": "d61179025e56036700615d6ae8f6c56fcb3cdfe9c6c52592d2c71452ba3c5613",
-      "files": [
-        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
-        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
-        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
-      ],
-      "folder_name": "codex.sts2.endlessmode",
-      "mod_id": "codex.sts2.endlessmode",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_828443a1.zip",
-      "bundle_sha256": "828443a1c3cb13344b48ef141f85be5e248bba2c58dc910092bf9c7ded3ed528"
     },
     {
       "mod_version_id": "de4922c6-4856-4126-a16e-fe135aa6f654",
@@ -500,9 +466,77 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.17_a76edd1f.zip",
       "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
+    },
+    {
+      "mod_version_id": "53ec84e2-c7e7-4920-b5a8-942adfd7416e",
+      "name": "DoubleUpgrades",
+      "version": "0.0.2",
+      "source": "nexus:slaythespire2/mods/846",
+      "hash": "9c63c99259e25ec2f64529c69a5494047943ac2112161bbdb4a8cda4d25ab567",
+      "files": [
+        "DoubleUpgrades\\DoubleUpgrades.dll",
+        "DoubleUpgrades\\DoubleUpgrades.json",
+        "DoubleUpgrades\\DoubleUpgrades.pdb"
+      ],
+      "folder_name": "DoubleUpgrades",
+      "mod_id": "DoubleUpgrades",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/DoubleUpgrades_v0.0.2_07bdc157.zip",
+      "bundle_sha256": "07bdc157c9b906e55587010657bc9291d7d5beb13c90f91a78008f93822ab1b8"
+    },
+    {
+      "mod_version_id": "cd5af605-e2fc-49ed-8ccb-84af9569230b",
+      "name": "皮皮极速: SpeedX",
+      "version": "0.11.8",
+      "source": "nexus:slaythespire2/mods/91",
+      "hash": "912bd55d3ca33e8302e833c05aca6f02e86de89350b4bf9a2a1674d5b94cca0a",
+      "files": [
+        "SpeedX\\SpeedX.dll",
+        "SpeedX\\SpeedX.json",
+        "SpeedX\\SpeedX.pck"
+      ],
+      "folder_name": "SpeedX",
+      "mod_id": "SpeedX",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.8_f3aafebe.zip",
+      "bundle_sha256": "f3aafebea5ce6799df582db6b55dd646b117d411f1e89ab49f29aa77a575b7fb"
+    },
+    {
+      "mod_version_id": "3b946952-2a13-4194-bb25-b81e1b8392fc",
+      "name": "BuffTheSpire",
+      "version": "1.2.0",
+      "source": null,
+      "hash": "12251893aab63cd1ff9517ddafbe8613b00aa391fdba7ef4fbb1fca9b0e549a8",
+      "files": [
+        "BuffTheSpire\\BuffTheSpire.dll",
+        "BuffTheSpire\\BuffTheSpire.json",
+        "BuffTheSpire\\BuffTheSpire.pck"
+      ],
+      "folder_name": "BuffTheSpire",
+      "mod_id": "BuffTheSpire",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BuffTheSpire_v1.2.0_81a749b9.zip",
+      "bundle_sha256": "81a749b9491483df24f7ad3b1008084d57647cbec6d2648dbfe25c9529f6070a"
+    },
+    {
+      "mod_version_id": "38645885-5ff2-4e78-b811-8a06da75b0ff",
+      "name": "TinyTentMod",
+      "version": "v1.2.0",
+      "source": null,
+      "hash": "edd648ae4aa3bcd94608017d55dcb54e0330d537e0364e32597343be97a6a178",
+      "files": [
+        "TinyTentMod\\TinyTentMod.dll",
+        "TinyTentMod\\TinyTentMod.json",
+        "TinyTentMod\\TinyTentMod.pck"
+      ],
+      "folder_name": "TinyTentMod",
+      "mod_id": "TinyTentMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TinyTentMod_v1.2.0_9afa8c28.zip",
+      "bundle_sha256": "9afa8c28dfd52fb2a9e6027ea05341a49dfef0382b57769bf85f98bab4cf08a8"
     }
   ],
   "created_at": "2026-06-19T07:42:24.727963400Z",
-  "updated_at": "2026-06-19T10:50:35.288849900Z",
+  "updated_at": "2026-06-19T15:42:31.522931Z",
   "public": false
 }
