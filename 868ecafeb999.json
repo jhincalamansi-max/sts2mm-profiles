@@ -5,22 +5,22 @@
   "created_by": "jhincalamansi-max",
   "mods": [
     {
-      "mod_version_id": "f45c0d59-860b-406a-a6e3-61dd9140414a",
+      "mod_version_id": "c72c08e3-20e9-43e8-952e-616bdb3a3ecf",
       "name": "BaseLib",
       "version": "v3.2.1",
       "source": "github:Alchyr/BaseLib-StS2",
       "hash": "33808be9f5d897a4f31da9d93f50fee3d7f25fa30d66fc0c0ed265d36b903ca5",
       "files": [
-        "01_BaseLib\\BaseLib.dll",
-        "01_BaseLib\\BaseLib.json",
-        "01_BaseLib\\BaseLib.pck",
-        "01_BaseLib\\desktop.ini"
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck",
+        "BaseLib\\desktop.ini"
       ],
-      "folder_name": "01_BaseLib",
+      "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_e3be0f4a.zip",
-      "bundle_sha256": "e3be0f4adc379775884caea128ad2d045f203ae350fa31d2e8e519ccbbc27371"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_112feb03.zip",
+      "bundle_sha256": "112feb038cc7a0a11ab03b723f7e7ed101758989f06a0fe5676dade91455ef22"
     },
     {
       "mod_version_id": "54b5c7d3-c285-4240-aad0-616d27e42ac3",
@@ -182,8 +182,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_9533abf6.zip",
-      "bundle_sha256": "9533abf6ab71e1d7d3871b1c8dc8f1cfba3bed15be69c879074a11ce22eeb0f5"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_cead8067.zip",
+      "bundle_sha256": "cead806736f6012203248d2c819f8d75ae879fbf4ba99477baa4c4db370b5af4"
     },
     {
       "mod_version_id": "e98c83b7-2739-4af4-9ad7-8e4a9e4c9519",
@@ -327,27 +327,10 @@
       "bundle_sha256": "8cfc38778164d9e69469388f10304fb9fcb27385cfc25c1b894da539ec757e59"
     },
     {
-      "mod_version_id": "2c3144e9-3173-4cd2-b0b0-1f1ec5505ecf",
-      "name": "Construct构装师",
-      "version": "1.0",
-      "source": "nexus:slaythespire2/mods/1271",
-      "hash": "54eb7db35f9fcaa10784504bf9401e5e94d580d3747c148ca19013827ddfddd2",
-      "files": [
-        "Construct\\Construct.dll",
-        "Construct\\Construct.json",
-        "Construct\\Construct.pck"
-      ],
-      "folder_name": "Construct",
-      "mod_id": "Construct",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Construct._v1.0_0477f9f8.zip",
-      "bundle_sha256": "0477f9f890c5b5ef186ccf0bb6f332204982349f31aa2d7a97cc7e7bf94e006b"
-    },
-    {
       "mod_version_id": "e612f6ec-db7d-493f-b432-7d08590f92c6",
       "name": "Evanescia",
       "version": "v0.2.1",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/1298",
       "hash": "4b4a105dc8c15a2a8e9da6f313ec8494ab9a237fd224e706c16fd1b388d9e46e",
       "files": [
         "Evanescia\\Evanescia.dll",
@@ -502,23 +485,6 @@
       "bundle_sha256": "8453437ada666d0fecbbc44ee065a5b0c2a056af81e3b06bb287547adc5c8814"
     },
     {
-      "mod_version_id": "4369b493-7251-4103-9a2d-7124d4f4d9fd",
-      "name": "Stoner Expansion",
-      "version": "0.3.0",
-      "source": "nexus:slaythespire2/mods/1172",
-      "hash": "5c180a7b50468adbd56a71c64f95c1793a457b6a52be13da6d88bcb50cc9976c",
-      "files": [
-        "Stoner\\Stoner.dll",
-        "Stoner\\Stoner.json",
-        "Stoner\\Stoner.pck"
-      ],
-      "folder_name": "Stoner",
-      "mod_id": "Stoner",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Stoner_Expansion_v0.3.0_ae872fdb.zip",
-      "bundle_sha256": "ae872fdbc1ad00221845a244398774ac27833e3b9756d611ca65e8a043ba5b78"
-    },
-    {
       "mod_version_id": "e651373b-eb8e-4a1e-a278-804ddfcab2e1",
       "name": "Watcher",
       "version": "1.4.17",
@@ -555,6 +521,6 @@
     }
   ],
   "created_at": "2026-06-17T07:53:26.202998300Z",
-  "updated_at": "2026-06-18T22:54:10.938734500Z",
+  "updated_at": "2026-06-19T06:19:52.260721400Z",
   "public": false
 }
