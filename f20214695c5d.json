@@ -148,6 +148,23 @@
       "bundle_sha256": "a0eaa97cff269bbce03d60396b24011ddbba4862b3ad2f92d2f44605bed3dc6f"
     },
     {
+      "mod_version_id": "3b946952-2a13-4194-bb25-b81e1b8392fc",
+      "name": "BuffTheSpire",
+      "version": "1.2.0",
+      "source": "nexus:slaythespire2/mods/1091",
+      "hash": "12251893aab63cd1ff9517ddafbe8613b00aa391fdba7ef4fbb1fca9b0e549a8",
+      "files": [
+        "BuffTheSpire\\BuffTheSpire.dll",
+        "BuffTheSpire\\BuffTheSpire.json",
+        "BuffTheSpire\\BuffTheSpire.pck"
+      ],
+      "folder_name": "BuffTheSpire",
+      "mod_id": "BuffTheSpire",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BuffTheSpire_v1.2.0_81a749b9.zip",
+      "bundle_sha256": "81a749b9491483df24f7ad3b1008084d57647cbec6d2648dbfe25c9529f6070a"
+    },
+    {
       "mod_version_id": "96cded64-b53e-4263-b412-a3d25860cd5c",
       "name": "Map Enhance Mod",
       "version": "0.8.1",
@@ -238,6 +255,23 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
       "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
+    },
+    {
+      "mod_version_id": "38645885-5ff2-4e78-b811-8a06da75b0ff",
+      "name": "TinyTentMod",
+      "version": "v1.2.0",
+      "source": "nexus:slaythespire2/mods/405",
+      "hash": "edd648ae4aa3bcd94608017d55dcb54e0330d537e0364e32597343be97a6a178",
+      "files": [
+        "TinyTentMod\\TinyTentMod.dll",
+        "TinyTentMod\\TinyTentMod.json",
+        "TinyTentMod\\TinyTentMod.pck"
+      ],
+      "folder_name": "TinyTentMod",
+      "mod_id": "TinyTentMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TinyTentMod_v1.2.0_9afa8c28.zip",
+      "bundle_sha256": "9afa8c28dfd52fb2a9e6027ea05341a49dfef0382b57769bf85f98bab4cf08a8"
     },
     {
       "mod_version_id": "cc4e44b3-449d-4ba0-9e29-54a388f123c2",
@@ -500,43 +534,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.8_f3aafebe.zip",
       "bundle_sha256": "f3aafebea5ce6799df582db6b55dd646b117d411f1e89ab49f29aa77a575b7fb"
-    },
-    {
-      "mod_version_id": "3b946952-2a13-4194-bb25-b81e1b8392fc",
-      "name": "BuffTheSpire",
-      "version": "1.2.0",
-      "source": null,
-      "hash": "12251893aab63cd1ff9517ddafbe8613b00aa391fdba7ef4fbb1fca9b0e549a8",
-      "files": [
-        "BuffTheSpire\\BuffTheSpire.dll",
-        "BuffTheSpire\\BuffTheSpire.json",
-        "BuffTheSpire\\BuffTheSpire.pck"
-      ],
-      "folder_name": "BuffTheSpire",
-      "mod_id": "BuffTheSpire",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BuffTheSpire_v1.2.0_81a749b9.zip",
-      "bundle_sha256": "81a749b9491483df24f7ad3b1008084d57647cbec6d2648dbfe25c9529f6070a"
-    },
-    {
-      "mod_version_id": "38645885-5ff2-4e78-b811-8a06da75b0ff",
-      "name": "TinyTentMod",
-      "version": "v1.2.0",
-      "source": null,
-      "hash": "edd648ae4aa3bcd94608017d55dcb54e0330d537e0364e32597343be97a6a178",
-      "files": [
-        "TinyTentMod\\TinyTentMod.dll",
-        "TinyTentMod\\TinyTentMod.json",
-        "TinyTentMod\\TinyTentMod.pck"
-      ],
-      "folder_name": "TinyTentMod",
-      "mod_id": "TinyTentMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TinyTentMod_v1.2.0_9afa8c28.zip",
-      "bundle_sha256": "9afa8c28dfd52fb2a9e6027ea05341a49dfef0382b57769bf85f98bab4cf08a8"
     }
   ],
   "created_at": "2026-06-19T07:42:24.727963400Z",
-  "updated_at": "2026-06-19T15:42:31.522931Z",
+  "updated_at": "2026-06-19T16:29:13.569972600Z",
   "public": false
 }
