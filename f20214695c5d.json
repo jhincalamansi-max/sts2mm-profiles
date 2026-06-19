@@ -1,0 +1,526 @@
+{
+  "id": "4b187090-b394-4933-95eb-75f7ad9d6405",
+  "name": "8888",
+  "game_version": null,
+  "created_by": "jhincalamansi-max",
+  "mods": [
+    {
+      "mod_version_id": "c72c08e3-20e9-43e8-952e-616bdb3a3ecf",
+      "name": "BaseLib",
+      "version": "v3.2.1",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "33808be9f5d897a4f31da9d93f50fee3d7f25fa30d66fc0c0ed265d36b903ca5",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck",
+        "BaseLib\\desktop.ini"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BaseLib_v3.2.1_112feb03.zip",
+      "bundle_sha256": "112feb038cc7a0a11ab03b723f7e7ed101758989f06a0fe5676dade91455ef22"
+    },
+    {
+      "mod_version_id": "54b5c7d3-c285-4240-aad0-616d27e42ac3",
+      "name": "RitsuLib",
+      "version": "0.4.24",
+      "source": "github:BAKAOLC/STS2-RitsuLib",
+      "hash": "ae743a545cac01e5ae506862401e0a48dc01a06d2c7e8fbed13427d97ceaa5ee",
+      "files": [
+        "STS2-RitsuLib\\compat-target.txt",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.4.24_821a0e90.zip",
+      "bundle_sha256": "821a0e90b8d34a1f3ab6a0eb6dd18e853e74277d82d7188ca3ab164da8284b57"
+    },
+    {
+      "mod_version_id": "87b9376c-f0a0-4e68-8d6b-a5edc1d3bf17",
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.3",
+      "source": "nexus:slaythespire2/mods/27",
+      "hash": "8447e852546eb29bd058d9c49c1def0ef09f312d3e7073c7c7cb1586a5edbf8f",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
+      "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+    },
+    {
+      "mod_version_id": "e6be346e-8943-40d3-9fb7-5f455f40afa9",
+      "name": "BetterSaves",
+      "version": "0.4.3",
+      "source": "nexus:slaythespire2/mods/372",
+      "hash": "61eff6a9caf7110deff8d333c7e7d2d168e4b67e51318bead98b6368a1b4d752",
+      "files": [
+        "BetterSaves\\BetterSaves.dll",
+        "BetterSaves\\BetterSaves.json",
+        "BetterSaves\\BetterSaves.pck"
+      ],
+      "folder_name": "BetterSaves",
+      "mod_id": "BetterSaves",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSaves_v0.4.3_bfc3e5f5.zip",
+      "bundle_sha256": "bfc3e5f53654dff3cc1dbded573953d556818b56177da7d686527da8df32442f"
+    },
+    {
+      "mod_version_id": "17867569-5992-405f-9e0b-8b61361e041c",
+      "name": "Unlock All",
+      "version": "0.1.0",
+      "source": "nexus:slaythespire2/mods/253",
+      "hash": "91ce75fca9214dad489aaea68ebbd2fb93f3f9b3e0f173ee2a748807f585e567",
+      "files": [
+        "Unlock All\\desktop.ini",
+        "Unlock All\\mod_manifest.json",
+        "Unlock All\\UnlockAllMod.dll",
+        "Unlock All\\UnlockAllMod.pck",
+        "Unlock All\\UnlockAllMod.pdb"
+      ],
+      "folder_name": "Unlock All",
+      "mod_id": "UnlockAllMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Unlock_All_v0.1.0_50d20118.zip",
+      "bundle_sha256": "50d20118ba7c4a17f3e5a3a58a4eb60601a01f6d561defca89a31809b0ba0d81"
+    },
+    {
+      "mod_version_id": "be9c9555-410a-4339-8440-848d1028a3ba",
+      "name": "Ascension Unlocker",
+      "version": "1.0.0",
+      "source": "github:nightbug/AscensionUnlocker",
+      "hash": "5892b583069f2240409864a95e8a2d1d85d20d1dd70ec762821e8ab5c191dbfc",
+      "files": [
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.dll",
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\AscensionUnlocker.json",
+        "Ascension Unlocker Multiplayer-214-1-0-1774067733\\desktop.ini"
+      ],
+      "folder_name": "Ascension Unlocker Multiplayer-214-1-0-1774067733",
+      "mod_id": "AscensionUnlocker",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ascension_Unlocker_v1.0.0_4bdc5779.zip",
+      "bundle_sha256": "4bdc57796380938df63b1a282a23a9378e0a8992688ee9d525cb795716db074a"
+    },
+    {
+      "mod_version_id": "4d9bb48a-d196-4c98-80c5-38f055d2a938",
+      "name": "BetterSpire2",
+      "version": "v1.83.1",
+      "source": "github:AlecRichardson/BetterSpire2",
+      "hash": "3576938d6036682c4fb71515f5caa8b1023b2f4e57c8acb46b2af5fcddb67447",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\desktop.ini",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang",
+        "BetterSpire2\\desktop.ini"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.1_a0eaa97c.zip",
+      "bundle_sha256": "a0eaa97cff269bbce03d60396b24011ddbba4862b3ad2f92d2f44605bed3dc6f"
+    },
+    {
+      "mod_version_id": "96cded64-b53e-4263-b412-a3d25860cd5c",
+      "name": "Map Enhance Mod",
+      "version": "0.8.1",
+      "source": "nexus:slaythespire2/mods/475",
+      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
+      "files": [
+        "Map Enhance Mod\\desktop.ini",
+        "Map Enhance Mod\\map_color_config.json.txt",
+        "Map Enhance Mod\\sts2_map_mod.dll",
+        "Map Enhance Mod\\sts2_map_mod.json",
+        "Map Enhance Mod\\sts2_map_mod.log",
+        "Map Enhance Mod\\sts2_map_mod.pck",
+        "Map Enhance Mod\\sts2_map_mod.previous.log"
+      ],
+      "folder_name": "Map Enhance Mod",
+      "mod_id": "sts2_map_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_4191be11.zip",
+      "bundle_sha256": "4191be11ab06102e38c262d9403a6cb9dd6529cd2d256cf7822bee879fa2c8e4"
+    },
+    {
+      "mod_version_id": "42e82570-f2b7-4886-a39e-b053c1583bd0",
+      "name": "皮皮倒带: Rewind",
+      "version": "0.26.11",
+      "source": "nexus:slaythespire2/mods/211",
+      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
+      "files": [
+        "Rewind\\desktop.ini",
+        "Rewind\\Rewind.dll",
+        "Rewind\\Rewind.json",
+        "Rewind\\Rewind.pck"
+      ],
+      "folder_name": "Rewind",
+      "mod_id": "Rewind",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_2dd28cf3.zip",
+      "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
+    },
+    {
+      "mod_version_id": "2df209b7-5f77-4db9-a859-7b66bf054b4d",
+      "name": "皮皮快连: QuickLink",
+      "version": "0.9.9",
+      "source": "nexus:slaythespire2/mods/280",
+      "hash": "ad235ca67b3c822b4f6cf9d08b4ce31a5cd3e1030c7995fb9be1d9236bce623d",
+      "files": [
+        "QuickLink\\desktop.ini",
+        "QuickLink\\QuickLink.dll",
+        "QuickLink\\QuickLink.json",
+        "QuickLink\\QuickLink.pck"
+      ],
+      "folder_name": "QuickLink",
+      "mod_id": "QuickLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_db3399ef.zip",
+      "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
+    },
+    {
+      "mod_version_id": "e98c83b7-2739-4af4-9ad7-8e4a9e4c9519",
+      "name": "Dynamic Card Rewards",
+      "version": "1.1.2",
+      "source": "nexus:slaythespire2/mods/314",
+      "hash": "ed17e8ab5e1649ba636f48e55eeba5727e5107746cb9de01c58a64385960bb48",
+      "files": [
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\desktop.ini",
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.dll",
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.json",
+        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.pck"
+      ],
+      "folder_name": "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965",
+      "mod_id": "DynamicCardRewards",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_a18c3441.zip",
+      "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
+    },
+    {
+      "mod_version_id": "04793e3f-4107-483e-b8c6-f0d77a072e85",
+      "name": "Relic Reward Choice",
+      "version": "1.7.5",
+      "source": "nexus:slaythespire2/mods/272",
+      "hash": "1ab92726d05e57ebb2be8b6d7b80c2738b689924bc88458b4cca9539b671f7c0",
+      "files": [
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\desktop.ini",
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.dll",
+        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.json"
+      ],
+      "folder_name": "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410",
+      "mod_id": "RelicRewardChoice",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
+      "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
+    },
+    {
+      "mod_version_id": "bb67b2eb-7992-4a57-91e2-62cf38800421",
+      "name": "CardFusion.deps",
+      "version": "0.0.0",
+      "source": "nexus:slaythespire2/mods/1288",
+      "hash": "dbca2843332141296186a1b73589867a6f03e3dce62b38533fb6dded45c35889",
+      "files": [
+        "CardFusion\\CardFusion.deps.json",
+        "CardFusion\\CardFusion.dll",
+        "CardFusion\\CardFusion.json",
+        "CardFusion\\CardFusion.pck",
+        "CardFusion\\CardFusion.pdb"
+      ],
+      "folder_name": "CardFusion",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/CardFusion_deps_v0.0.0_c820c322.zip",
+      "bundle_sha256": "c820c322354965639023c0c8f02c293a62206ce18f1d784bbe031a0b27cf0625"
+    },
+    {
+      "mod_version_id": "90e2c0e3-757e-403b-808d-a37da4acc946",
+      "name": "Start With Miniature Tent",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "0d3ebf071b42443881b317f0f6de32c2bc268d106bb49004ab6b5f0627f784a6",
+      "files": [
+        "StartWithMiniatureTent\\StartWithMiniTent.dll",
+        "StartWithMiniatureTent\\StartWithMiniTent.json",
+        "StartWithMiniatureTent\\StartWithMiniTent.pck"
+      ],
+      "folder_name": "StartWithMiniatureTent",
+      "mod_id": "StartWithMiniTent",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Start_With_Miniature_Tent_v1.0.0_3e9e776a.zip",
+      "bundle_sha256": "3e9e776aee50065221479dc5dcf63176930b794f678f6b4461eeb3c7f4079f9c"
+    },
+    {
+      "mod_version_id": "564f2c2d-1a83-49fb-a3e0-b0d5a4f5812c",
+      "name": "Codex Endless Mode",
+      "version": "0.2.10",
+      "source": null,
+      "hash": "d61179025e56036700615d6ae8f6c56fcb3cdfe9c6c52592d2c71452ba3c5613",
+      "files": [
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_828443a1.zip",
+      "bundle_sha256": "828443a1c3cb13344b48ef141f85be5e248bba2c58dc910092bf9c7ded3ed528"
+    },
+    {
+      "mod_version_id": "de4922c6-4856-4126-a16e-fe135aa6f654",
+      "name": "Acheron",
+      "version": "v0.4.6",
+      "source": "nexus:slaythespire2/mods/1030",
+      "hash": "ab0206f9cec1b8960052d487e30fe672089a01049044ca3a757e6d88c34365bb",
+      "files": [
+        "Acheron\\Acheron.dll",
+        "Acheron\\Acheron.json",
+        "Acheron\\Acheron.pck"
+      ],
+      "folder_name": "Acheron",
+      "mod_id": "Acheron",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Acheron_v0.4.6_5c9bbb1d.zip",
+      "bundle_sha256": "5c9bbb1db838c760b52a308af380df9de3be2b94de85dd49fc1b3d3556758bc6"
+    },
+    {
+      "mod_version_id": "42141fd8-8887-429e-ac27-5fa0544ce36d",
+      "name": "ArisMod2",
+      "version": "0.0.2",
+      "source": "nexus:slaythespire2/mods/975",
+      "hash": "c95fbd1bc6e6c9f9c0ce8781dedc6de5088c0638bf47143b2b974d808a2f620d",
+      "files": [
+        "ArisMod2\\ArisMod2.dll",
+        "ArisMod2\\ArisMod2.json",
+        "ArisMod2\\ArisMod2.pck",
+        "ArisMod2\\desktop.ini"
+      ],
+      "folder_name": "ArisMod2",
+      "mod_id": "ArisMod2",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/ArisMod2_v0.0.2_8cfc3877.zip",
+      "bundle_sha256": "8cfc38778164d9e69469388f10304fb9fcb27385cfc25c1b894da539ec757e59"
+    },
+    {
+      "mod_version_id": "e612f6ec-db7d-493f-b432-7d08590f92c6",
+      "name": "Evanescia",
+      "version": "v0.2.1",
+      "source": "nexus:slaythespire2/mods/1298",
+      "hash": "4b4a105dc8c15a2a8e9da6f313ec8494ab9a237fd224e706c16fd1b388d9e46e",
+      "files": [
+        "Evanescia\\Evanescia.dll",
+        "Evanescia\\Evanescia.json",
+        "Evanescia\\Evanescia.pck"
+      ],
+      "folder_name": "Evanescia",
+      "mod_id": "Evanescia",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Evanescia_v0.2.1_fb0335b0.zip",
+      "bundle_sha256": "fb0335b0ecfda2909549cf33cece13ab8f4d536c6fa8b58cf095ff531224327c"
+    },
+    {
+      "mod_version_id": "607ebaaf-b81d-4777-bc30-d291aa318ed3",
+      "name": "Faust",
+      "version": "0.1.7.beta",
+      "source": "github:robinhood/faust",
+      "hash": "7f13f57d961f63d71cfff46eb8a5f64c22b7ab27ed2ebd5bc0260512f38be7c1",
+      "files": [
+        "Faust\\desktop.ini",
+        "Faust\\Faust.dll",
+        "Faust\\Faust.json",
+        "Faust\\Faust.pck"
+      ],
+      "folder_name": "Faust",
+      "mod_id": "Faust",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Faust_v0.1.7.beta_71929805.zip",
+      "bundle_sha256": "71929805a6b1b5c5e364882f0a68af2f555dd7b618e26e9cb3b60946b745ef94"
+    },
+    {
+      "mod_version_id": "96fa4b6b-5a7f-434a-89e0-a760482327bf",
+      "name": "Heathcliff Wild Hunt",
+      "version": "0.0.1",
+      "source": "nexus:slaythespire2/mods/1153",
+      "hash": "4591bcbbbda4213aff31cabcfe2251308d31355d9c353a29d16de2d7214dbd4e",
+      "files": [
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.dll",
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.json",
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.pck",
+        "HeathcliffWildHunt-beta\\HeathcliffWildHunt.pdb"
+      ],
+      "folder_name": "HeathcliffWildHunt-beta",
+      "mod_id": "HeathcliffWildHunt",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Heathcliff_Wild_Hunt_v0.0.1_005072e9.zip",
+      "bundle_sha256": "005072e92a1abefeea1c6c520695c6ab9fd78e1d6a519ea30ac060f25a921a99"
+    },
+    {
+      "mod_version_id": "6f1e8709-e4f6-4897-af20-b82709dfa47c",
+      "name": "Kafka",
+      "version": "v0.12.4",
+      "source": "nexus:slaythespire2/mods/1029",
+      "hash": "d388e2af6ec8505783856e32fcf617d21fc8e1f9cefedd8fc0fcfef44d2bd543",
+      "files": [
+        "Kafka\\Kafka.dll",
+        "Kafka\\Kafka.json",
+        "Kafka\\Kafka.pck"
+      ],
+      "folder_name": "Kafka",
+      "mod_id": "Kafka",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Kafka_v0.12.4_557588a3.zip",
+      "bundle_sha256": "557588a31cd22a36c95549ed0d8afdfbf2ad767649a6032fc72260a07b3f10cf"
+    },
+    {
+      "mod_version_id": "a9bd19ad-3651-480b-9b02-155b08b7139d",
+      "name": "MeiLinMod",
+      "version": "v0.2.6",
+      "source": "nexus:slaythespire2/mods/346",
+      "hash": "d9750daa0d0bb169fe959c9765ec7e27815cc140fd864f7e9a52287855b53baa",
+      "files": [
+        "MeiLinMod0.2.6(0.107)\\desktop.ini",
+        "MeiLinMod0.2.6(0.107)\\MeiLinMod.dll",
+        "MeiLinMod0.2.6(0.107)\\MeiLinMod.json",
+        "MeiLinMod0.2.6(0.107)\\MeiLinMod.pck"
+      ],
+      "folder_name": "MeiLinMod0.2.6(0.107)",
+      "mod_id": "MeiLinMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/MeiLinMod_v0.2.6_50b7aac5.zip",
+      "bundle_sha256": "50b7aac574858d1f6499186705f03e52b9a2aee327d9626e58cafc6631f81d55"
+    },
+    {
+      "mod_version_id": "dc7ceca9-daaf-4914-b66b-34f57800f4da",
+      "name": "Natsumi",
+      "version": "0.1.7",
+      "source": "github:greeeen-dev/natsumi-browser",
+      "hash": "73b6e481677bdf70739f8b271b002127a5a9ada8ce3d05d661efa6922822bed1",
+      "files": [
+        "Natsumi\\desktop.ini",
+        "Natsumi\\Natsumi.dll",
+        "Natsumi\\Natsumi.json",
+        "Natsumi\\Natsumi.pck"
+      ],
+      "folder_name": "Natsumi",
+      "mod_id": "Natsumi",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Natsumi_v0.1.7_95c1afbd.zip",
+      "bundle_sha256": "95c1afbd62ada56662c312c4427709b1cc1e6cead04b57655b7891025aa7d71a"
+    },
+    {
+      "mod_version_id": "9064b63f-f248-4811-88cd-c4bb2976798d",
+      "name": "Overlord Laharl",
+      "version": "v0.9.3",
+      "source": "nexus:slaythespire2/mods/824",
+      "hash": "0be956a38eb56685f468a3b82f859a56c342864cf07a4ef1f698d490ab82b874",
+      "files": [
+        "LaharlMods_NoVoice\\Laharl.dll",
+        "LaharlMods_NoVoice\\Laharl.json",
+        "LaharlMods_NoVoice\\Laharl.pck"
+      ],
+      "folder_name": "LaharlMods_NoVoice",
+      "mod_id": "Laharl",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Overlord_Laharl_v0.9.3_8f58d4c5.zip",
+      "bundle_sha256": "8f58d4c5923bed95ce9a679b8ef28f97527ccb7da744efa8f0c946f474b23d76"
+    },
+    {
+      "mod_version_id": "507a4533-87fe-4592-890a-7e891ed35ab8",
+      "name": "Raven",
+      "version": "v0.1.10",
+      "source": "nexus:slaythespire2/mods/927",
+      "hash": "819b12abfcda86106e06616badaaf34da0da40ebfb8d3110192f7ace762cba4f",
+      "files": [
+        "RavenMod\\RavenMod\\RavenMod.dll",
+        "RavenMod\\RavenMod\\RavenMod.json",
+        "RavenMod\\RavenMod\\RavenMod.pck"
+      ],
+      "folder_name": "RavenMod",
+      "mod_id": "RavenMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Raven_v0.1.10_dc0c8ee0.zip",
+      "bundle_sha256": "dc0c8ee07e2badde1d51d07e0a5aa8811685791b8f011ede4c3cc400049a6994"
+    },
+    {
+      "mod_version_id": "318f86ec-aadf-4585-94cb-89272c59c9e5",
+      "name": "Ryoshu",
+      "version": "0.3.5.beta",
+      "source": "github:urkr14/ryoshu1",
+      "hash": "7fe3ded16ff4bd36dfbcb59f74e5e8430c6e042924de9d8df20a58b65692178b",
+      "files": [
+        "Ryoshu\\desktop.ini",
+        "Ryoshu\\Ryoshu.dll",
+        "Ryoshu\\Ryoshu.json",
+        "Ryoshu\\Ryoshu.pck"
+      ],
+      "folder_name": "Ryoshu",
+      "mod_id": "Ryoshu",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ryoshu_v0.3.5.beta_8453437a.zip",
+      "bundle_sha256": "8453437ada666d0fecbbc44ee065a5b0c2a056af81e3b06bb287547adc5c8814"
+    },
+    {
+      "mod_version_id": "e651373b-eb8e-4a1e-a278-804ddfcab2e1",
+      "name": "Watcher",
+      "version": "1.4.17",
+      "source": "nexus:slaythespire2/mods/46",
+      "hash": "e60ba1fccbc99a58c264ed0abd593913643169b5e320795163d3ab0b89d87384",
+      "files": [
+        "Watcher\\Watcher\\Watcher.dll",
+        "Watcher\\Watcher\\Watcher.json",
+        "Watcher\\Watcher\\Watcher.pck"
+      ],
+      "folder_name": "Watcher",
+      "mod_id": "Watcher",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.17_a76edd1f.zip",
+      "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
+    },
+    {
+      "mod_version_id": "ca7bb069-2813-4cf8-8501-c153fad31804",
+      "name": "YukiMod",
+      "version": "v0.0.4",
+      "source": "nexus:slaythespire2/mods/1147",
+      "hash": "aad3d99c8341eaeab69c8f508fdf74e28a5bc09eb512f0dba58ad75b98fc3464",
+      "files": [
+        "YukiMod0.0.4(0.107)\\desktop.ini",
+        "YukiMod0.0.4(0.107)\\YukiMod.dll",
+        "YukiMod0.0.4(0.107)\\YukiMod.json",
+        "YukiMod0.0.4(0.107)\\YukiMod.pck"
+      ],
+      "folder_name": "YukiMod0.0.4(0.107)",
+      "mod_id": "YukiMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/YukiMod_v0.0.4_ba441bd3.zip",
+      "bundle_sha256": "ba441bd33f9e300dfa193b8eaa36e280f340b554a631fd3362afd8fd2552402b"
+    }
+  ],
+  "created_at": "2026-06-19T07:42:24.727963400Z",
+  "updated_at": "2026-06-19T07:50:59.046364200Z",
+  "public": false
+}
