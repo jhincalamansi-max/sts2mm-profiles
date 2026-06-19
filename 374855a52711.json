@@ -324,9 +324,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_47ca1744.zip",
       "bundle_sha256": "47ca174459da07b2f127a54056ea7f7a2c2d6f131e80bddd825fb4c871e0277a"
+    },
+    {
+      "mod_version_id": "38645885-5ff2-4e78-b811-8a06da75b0ff",
+      "name": "TinyTentMod",
+      "version": "v1.2.0",
+      "source": null,
+      "hash": "edd648ae4aa3bcd94608017d55dcb54e0330d537e0364e32597343be97a6a178",
+      "files": [
+        "TinyTentMod\\TinyTentMod.dll",
+        "TinyTentMod\\TinyTentMod.json",
+        "TinyTentMod\\TinyTentMod.pck"
+      ],
+      "folder_name": "TinyTentMod",
+      "mod_id": "TinyTentMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/TinyTentMod_v1.2.0_9afa8c28.zip",
+      "bundle_sha256": "9afa8c28dfd52fb2a9e6027ea05341a49dfef0382b57769bf85f98bab4cf08a8"
     }
   ],
   "created_at": "2026-06-19T15:40:17.076474200Z",
-  "updated_at": "2026-06-19T15:48:09.622931300Z",
+  "updated_at": "2026-06-19T15:48:40.649104200Z",
   "public": false
 }
