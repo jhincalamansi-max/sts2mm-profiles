@@ -165,8 +165,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_1a908a06.zip",
-      "bundle_sha256": "1a908a0687fea6569a29d4e187789a6e5882e988a72590d94297f8429acb9404"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_87b8d3dd.zip",
+      "bundle_sha256": "87b8d3dd5ae4bf66edf50515295e2940205833e57bf5f4623fab169fedcc915a"
     },
     {
       "mod_version_id": "2df209b7-5f77-4db9-a859-7b66bf054b4d",
@@ -185,24 +185,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_db3399ef.zip",
       "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
-    },
-    {
-      "mod_version_id": "42e82570-f2b7-4886-a39e-b053c1583bd0",
-      "name": "皮皮倒带: Rewind",
-      "version": "0.26.11",
-      "source": "nexus:slaythespire2/mods/211",
-      "hash": "b924f09908adba51190b850e92065c82185ffb079269a9df4224246c0cdd7a06",
-      "files": [
-        "Rewind\\desktop.ini",
-        "Rewind\\Rewind.dll",
-        "Rewind\\Rewind.json",
-        "Rewind\\Rewind.pck"
-      ],
-      "folder_name": "Rewind",
-      "mod_id": "Rewind",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_2dd28cf3.zip",
-      "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
     },
     {
       "mod_version_id": "cd5af605-e2fc-49ed-8ccb-84af9569230b",
@@ -240,6 +222,6 @@
     }
   ],
   "created_at": "2026-06-19T15:40:17.076474200Z",
-  "updated_at": "2026-06-19T16:54:54.410558300Z",
+  "updated_at": "2026-06-19T17:26:10.314052400Z",
   "public": false
 }
