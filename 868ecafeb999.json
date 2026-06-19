@@ -79,23 +79,6 @@
       "bundle_sha256": "4bdc57796380938df63b1a282a23a9378e0a8992688ee9d525cb795716db074a"
     },
     {
-      "mod_version_id": "d9205045-0cbf-4954-850b-28abeccfd051",
-      "name": "Ascension+",
-      "version": "1.0.0",
-      "source": "nexus:slaythespire2/mods/1111",
-      "hash": "45eb965a2aaf1f6b0ebe229ae7b0104b928352132783833ca3fae9f790c206f7",
-      "files": [
-        "AscensionPlus\\AscensionPlus.dll",
-        "AscensionPlus\\AscensionPlus.json",
-        "AscensionPlus\\config.json"
-      ],
-      "folder_name": "AscensionPlus",
-      "mod_id": "AscensionPlus",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Ascension__v1.0.0_6687877e.zip",
-      "bundle_sha256": "6687877e6807a9c658f6f43036839989c49e2a2c7651b1ffb039448ad62bc783"
-    },
-    {
       "mod_version_id": "17867569-5992-405f-9e0b-8b61361e041c",
       "name": "Unlock All",
       "version": "0.1.0",
@@ -182,8 +165,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_cead8067.zip",
-      "bundle_sha256": "cead806736f6012203248d2c819f8d75ae879fbf4ba99477baa4c4db370b5af4"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_e4133b1a.zip",
+      "bundle_sha256": "e4133b1a3c44b83612cac0e31a61d155dbe1cf8d37cc7bcd6f9b5a710ece9b3a"
     },
     {
       "mod_version_id": "e98c83b7-2739-4af4-9ad7-8e4a9e4c9519",
@@ -290,6 +273,23 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Start_With_Miniature_Tent_v1.0.0_3e9e776a.zip",
       "bundle_sha256": "3e9e776aee50065221479dc5dcf63176930b794f678f6b4461eeb3c7f4079f9c"
+    },
+    {
+      "mod_version_id": "564f2c2d-1a83-49fb-a3e0-b0d5a4f5812c",
+      "name": "Codex Endless Mode",
+      "version": "0.2.10",
+      "source": null,
+      "hash": "d61179025e56036700615d6ae8f6c56fcb3cdfe9c6c52592d2c71452ba3c5613",
+      "files": [
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_828443a1.zip",
+      "bundle_sha256": "828443a1c3cb13344b48ef141f85be5e248bba2c58dc910092bf9c7ded3ed528"
     },
     {
       "mod_version_id": "de4922c6-4856-4126-a16e-fe135aa6f654",
@@ -518,9 +518,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/YukiMod_v0.0.4_ba441bd3.zip",
       "bundle_sha256": "ba441bd33f9e300dfa193b8eaa36e280f340b554a631fd3362afd8fd2552402b"
+    },
+    {
+      "mod_version_id": "564f2c2d-1a83-49fb-a3e0-b0d5a4f5812c",
+      "name": "Codex Endless Mode",
+      "version": "0.2.10",
+      "source": null,
+      "hash": "d61179025e56036700615d6ae8f6c56fcb3cdfe9c6c52592d2c71452ba3c5613",
+      "files": [
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.config",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.dll",
+        "codex.sts2.endlessmode\\codex.sts2.endlessmode.json"
+      ],
+      "folder_name": "codex.sts2.endlessmode",
+      "mod_id": "codex.sts2.endlessmode",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Codex_Endless_Mode_v0.2.10_828443a1.zip",
+      "bundle_sha256": "828443a1c3cb13344b48ef141f85be5e248bba2c58dc910092bf9c7ded3ed528"
     }
   ],
   "created_at": "2026-06-17T07:53:26.202998300Z",
-  "updated_at": "2026-06-19T06:24:40.351758800Z",
+  "updated_at": "2026-06-19T07:27:46.561979800Z",
   "public": false
 }
