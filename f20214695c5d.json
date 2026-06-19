@@ -165,8 +165,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_4191be11.zip",
-      "bundle_sha256": "4191be11ab06102e38c262d9403a6cb9dd6529cd2d256cf7822bee879fa2c8e4"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_8e03147d.zip",
+      "bundle_sha256": "8e03147d989a8781e23795f4cf5274521773176fafbe9c7e855e3ff28746b835"
     },
     {
       "mod_version_id": "42e82570-f2b7-4886-a39e-b053c1583bd0",
@@ -240,7 +240,7 @@
       "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
     },
     {
-      "mod_version_id": "bb67b2eb-7992-4a57-91e2-62cf38800421",
+      "mod_version_id": "cc4e44b3-449d-4ba0-9e29-54a388f123c2",
       "name": "CardFusion.deps",
       "version": "0.0.0",
       "source": "nexus:slaythespire2/mods/1288",
@@ -254,8 +254,8 @@
       ],
       "folder_name": "CardFusion",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/CardFusion_deps_v0.0.0_c820c322.zip",
-      "bundle_sha256": "c820c322354965639023c0c8f02c293a62206ce18f1d784bbe031a0b27cf0625"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/CardFusion_deps_v0.0.0_62bf1c33.zip",
+      "bundle_sha256": "62bf1c3323c4a7267041ea2886dda2475046c0a5bf30eef93346a3b5cadc741f"
     },
     {
       "mod_version_id": "90e2c0e3-757e-403b-808d-a37da4acc946",
@@ -500,27 +500,9 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.17_a76edd1f.zip",
       "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
-    },
-    {
-      "mod_version_id": "ca7bb069-2813-4cf8-8501-c153fad31804",
-      "name": "YukiMod",
-      "version": "v0.0.4",
-      "source": "nexus:slaythespire2/mods/1147",
-      "hash": "aad3d99c8341eaeab69c8f508fdf74e28a5bc09eb512f0dba58ad75b98fc3464",
-      "files": [
-        "YukiMod0.0.4(0.107)\\desktop.ini",
-        "YukiMod0.0.4(0.107)\\YukiMod.dll",
-        "YukiMod0.0.4(0.107)\\YukiMod.json",
-        "YukiMod0.0.4(0.107)\\YukiMod.pck"
-      ],
-      "folder_name": "YukiMod0.0.4(0.107)",
-      "mod_id": "YukiMod",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/YukiMod_v0.0.4_ba441bd3.zip",
-      "bundle_sha256": "ba441bd33f9e300dfa193b8eaa36e280f340b554a631fd3362afd8fd2552402b"
     }
   ],
   "created_at": "2026-06-19T07:42:24.727963400Z",
-  "updated_at": "2026-06-19T07:50:59.046364200Z",
+  "updated_at": "2026-06-19T10:50:35.288849900Z",
   "public": false
 }
