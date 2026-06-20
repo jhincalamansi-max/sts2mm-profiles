@@ -165,21 +165,25 @@
       "bundle_sha256": "f3aafebea5ce6799df582db6b55dd646b117d411f1e89ab49f29aa77a575b7fb"
     },
     {
-      "mod_version_id": "0c92a44e-a249-4680-ac8e-916cfa0b02a9",
-      "name": "RouteSuggest",
-      "version": "1.12.0",
-      "source": null,
-      "hash": "712ea683a9b16b7a33f9a746d97c6fabbc66b784f730e87d6be1688ed488b0e3",
+      "mod_version_id": "96cded64-b53e-4263-b412-a3d25860cd5c",
+      "name": "Map Enhance Mod",
+      "version": "0.8.1",
+      "source": "nexus:slaythespire2/mods/475",
+      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
       "files": [
-        "RouteSuggest\\RouteSuggest.dll",
-        "RouteSuggest\\RouteSuggest.json",
-        "RouteSuggest\\RouteSuggest.pck"
+        "Map Enhance Mod\\desktop.ini",
+        "Map Enhance Mod\\map_color_config.json.txt",
+        "Map Enhance Mod\\sts2_map_mod.dll",
+        "Map Enhance Mod\\sts2_map_mod.json",
+        "Map Enhance Mod\\sts2_map_mod.log",
+        "Map Enhance Mod\\sts2_map_mod.pck",
+        "Map Enhance Mod\\sts2_map_mod.previous.log"
       ],
-      "folder_name": "RouteSuggest",
-      "mod_id": "RouteSuggest",
+      "folder_name": "Map Enhance Mod",
+      "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.12.0_f700950d.zip",
-      "bundle_sha256": "f700950d92cfd126f2681cbb4ba41a4a40b0d90a8a5d5de588390ddbce114919"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_1ddd3b25.zip",
+      "bundle_sha256": "1ddd3b25a00c44139957cf61118a244407764b3ae896fc05fcdcb0d586b39f14"
     },
     {
       "mod_version_id": "e651373b-eb8e-4a1e-a278-804ddfcab2e1",
@@ -197,9 +201,43 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.17_a76edd1f.zip",
       "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
+    },
+    {
+      "mod_version_id": "2d47c38e-e8bb-427d-9b1d-0a81c0099689",
+      "name": "AutoPlay",
+      "version": "v1.15",
+      "source": null,
+      "hash": "6c8b68d91ee0a660f9c05f6c373744fdceafffac064f7145721572c1e429044a",
+      "files": [
+        "AutoPlay\\AutoPlay.dll",
+        "AutoPlay\\AutoPlay.json",
+        "AutoPlay\\AutoPlay.pck"
+      ],
+      "folder_name": "AutoPlay",
+      "mod_id": "AutoPlay",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/AutoPlay_v1.15_3795b865.zip",
+      "bundle_sha256": "3795b8659421083c6359669517f29bff6d1c09a6a6cabcbc5b9f9b9d34cc057e"
+    },
+    {
+      "mod_version_id": "56918e1d-b05c-4f0f-ad1d-0bbad271b7a5",
+      "name": "IMProvments",
+      "version": "v1.3",
+      "source": null,
+      "hash": "bbf3bd53551f94094ab382f7b90be71bca92028fb35cc1e58b577d9fc11acec1",
+      "files": [
+        "IMProvments\\IMProvments.dll",
+        "IMProvments\\IMProvments.json",
+        "IMProvments\\IMProvments.pck"
+      ],
+      "folder_name": "IMProvments",
+      "mod_id": "IMProvments",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/IMProvments_v1.3_221da3b3.zip",
+      "bundle_sha256": "221da3b38b15231eb04aa7d1af9c5583329f64245237eca477548fa47de2a02f"
     }
   ],
   "created_at": "2026-06-19T15:40:17.076474200Z",
-  "updated_at": "2026-06-19T18:00:40.120430600Z",
+  "updated_at": "2026-06-20T04:21:17.420285300Z",
   "public": false
 }
