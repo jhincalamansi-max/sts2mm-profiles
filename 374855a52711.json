@@ -235,9 +235,26 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/IMProvments_v1.3_221da3b3.zip",
       "bundle_sha256": "221da3b38b15231eb04aa7d1af9c5583329f64245237eca477548fa47de2a02f"
+    },
+    {
+      "mod_version_id": "3f4088c7-42d5-48ec-b170-435d17bdafd7",
+      "name": "StS2 Card Advisor",
+      "version": "v1.15.6",
+      "source": "nexus:slaythespire2/mods/627",
+      "hash": "2bd2812896d5859a0ac6793abd789d4d68861525d6ec90b5bebce65329143e2c",
+      "files": [
+        "Sts2CardAdvisor V1.15.6\\desktop.ini",
+        "Sts2CardAdvisor V1.15.6\\Sts2CardAdvisor.dll",
+        "Sts2CardAdvisor V1.15.6\\Sts2CardAdvisor.json"
+      ],
+      "folder_name": "Sts2CardAdvisor V1.15.6",
+      "mod_id": "Sts2CardAdvisor",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/StS2_Card_Advisor_v1.15.6_8440a841.zip",
+      "bundle_sha256": "8440a8411bed1b0af8ba4ca1d7f123258f437116716eb2159c0cfdc8a9f1104d"
     }
   ],
   "created_at": "2026-06-19T15:40:17.076474200Z",
-  "updated_at": "2026-06-20T04:21:17.420285300Z",
+  "updated_at": "2026-06-20T04:55:27.253175900Z",
   "public": false
 }
