@@ -177,7 +177,7 @@
       ],
       "folder_name": "BuffTheSpire",
       "mod_id": "BuffTheSpire",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BuffTheSpire_v1.2.0_81a749b9.zip",
       "bundle_sha256": "81a749b9491483df24f7ad3b1008084d57647cbec6d2648dbfe25c9529f6070a"
     },
@@ -199,8 +199,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_1687ccc8.zip",
-      "bundle_sha256": "1687ccc87c75ade5dd798ce701f5576f12c77cc0db6e42085ba368a968990318"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_ec123baf.zip",
+      "bundle_sha256": "ec123bafb02236f2e607bb5bef42d7c0d1efbd0e0e606ea94796346d3a8dd25c"
     },
     {
       "mod_version_id": "42e82570-f2b7-4886-a39e-b053c1583bd0",
@@ -216,7 +216,7 @@
       ],
       "folder_name": "Rewind",
       "mod_id": "Rewind",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.11_2dd28cf3.zip",
       "bundle_sha256": "2dd28cf3a909606f29f29d5301a870046c34a42e2a8578c0b4e98851190ad79a"
     },
@@ -234,7 +234,7 @@
       ],
       "folder_name": "QuickLink",
       "mod_id": "QuickLink",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.9.9_db3399ef.zip",
       "bundle_sha256": "db3399efeab3410d31512727524a63eeb3becc8f43427ef9bc2372d683a7f709"
     },
@@ -269,7 +269,7 @@
         "CardFusion\\CardFusion.pdb"
       ],
       "folder_name": "CardFusion",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/CardFusion_deps_v0.0.0_62bf1c33.zip",
       "bundle_sha256": "62bf1c3323c4a7267041ea2886dda2475046c0a5bf30eef93346a3b5cadc741f"
     },
@@ -286,7 +286,7 @@
       ],
       "folder_name": "DoubleUpgrades",
       "mod_id": "DoubleUpgrades",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/DoubleUpgrades_v0.0.2_07bdc157.zip",
       "bundle_sha256": "07bdc157c9b906e55587010657bc9291d7d5beb13c90f91a78008f93822ab1b8"
     },
@@ -304,7 +304,7 @@
       ],
       "folder_name": "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965",
       "mod_id": "DynamicCardRewards",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_a18c3441.zip",
       "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
     },
@@ -321,7 +321,7 @@
       ],
       "folder_name": "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410",
       "mod_id": "RelicRewardChoice",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
       "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
     },
@@ -338,7 +338,7 @@
       ],
       "folder_name": "StartWithMiniatureTent",
       "mod_id": "StartWithMiniTent",
-      "enabled": false,
+      "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Start_With_Miniature_Tent_v1.0.0_3e9e776a.zip",
       "bundle_sha256": "3e9e776aee50065221479dc5dcf63176930b794f678f6b4461eeb3c7f4079f9c"
     },
@@ -361,6 +361,6 @@
     }
   ],
   "created_at": "2026-06-20T08:32:48.654123200Z",
-  "updated_at": "2026-06-20T08:34:52.568009300Z",
+  "updated_at": "2026-06-20T08:47:38.202426Z",
   "public": false
 }
