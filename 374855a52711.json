@@ -182,8 +182,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_54261d5a.zip",
-      "bundle_sha256": "54261d5afb6dd337ff7e7ef810d27d3620ec1d5c57710660650c41a335197505"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_a49fdda0.zip",
+      "bundle_sha256": "a49fdda0723ae079b445eb972c02bb7cc054badf6393da369de7fb92c06d1936"
     },
     {
       "mod_version_id": "e651373b-eb8e-4a1e-a278-804ddfcab2e1",
@@ -201,23 +201,6 @@
       "enabled": true,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Watcher_v1.4.17_a76edd1f.zip",
       "bundle_sha256": "a76edd1fceb897cf1327266d77609fd8bbbf12f2c449dc407faa7050c12b9f5f"
-    },
-    {
-      "mod_version_id": "2d47c38e-e8bb-427d-9b1d-0a81c0099689",
-      "name": "AutoPlay",
-      "version": "v1.15",
-      "source": "nexus:slaythespire2/mods/315",
-      "hash": "6c8b68d91ee0a660f9c05f6c373744fdceafffac064f7145721572c1e429044a",
-      "files": [
-        "AutoPlay\\AutoPlay.dll",
-        "AutoPlay\\AutoPlay.json",
-        "AutoPlay\\AutoPlay.pck"
-      ],
-      "folder_name": "AutoPlay",
-      "mod_id": "AutoPlay",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/AutoPlay_v1.15_3795b865.zip",
-      "bundle_sha256": "3795b8659421083c6359669517f29bff6d1c09a6a6cabcbc5b9f9b9d34cc057e"
     },
     {
       "mod_version_id": "56918e1d-b05c-4f0f-ad1d-0bbad271b7a5",
@@ -255,6 +238,6 @@
     }
   ],
   "created_at": "2026-06-19T15:40:17.076474200Z",
-  "updated_at": "2026-06-20T04:55:27.253175900Z",
+  "updated_at": "2026-06-20T05:17:13.077359800Z",
   "public": false
 }
