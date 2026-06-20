@@ -199,8 +199,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_ec123baf.zip",
-      "bundle_sha256": "ec123bafb02236f2e607bb5bef42d7c0d1efbd0e0e606ea94796346d3a8dd25c"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_8c6b3077.zip",
+      "bundle_sha256": "8c6b3077425525add9c74a4aaf5c81595d932815c0ada2afc1450488785fa6fe"
     },
     {
       "mod_version_id": "42e82570-f2b7-4886-a39e-b053c1583bd0",
@@ -291,41 +291,6 @@
       "bundle_sha256": "07bdc157c9b906e55587010657bc9291d7d5beb13c90f91a78008f93822ab1b8"
     },
     {
-      "mod_version_id": "e98c83b7-2739-4af4-9ad7-8e4a9e4c9519",
-      "name": "Dynamic Card Rewards",
-      "version": "1.1.2",
-      "source": "nexus:slaythespire2/mods/314",
-      "hash": "ed17e8ab5e1649ba636f48e55eeba5727e5107746cb9de01c58a64385960bb48",
-      "files": [
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\desktop.ini",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.dll",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.json",
-        "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965\\DynamicCardRewards.pck"
-      ],
-      "folder_name": "DynamicCardRewards - beta branch (v0.105.1)-314-1-1-2-1779559965",
-      "mod_id": "DynamicCardRewards",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Dynamic_Card_Rewards_v1.1.2_a18c3441.zip",
-      "bundle_sha256": "a18c34414243473d8f0e5d5c15cab89c63e609557c8b54da4f4accb4cd0edd08"
-    },
-    {
-      "mod_version_id": "04793e3f-4107-483e-b8c6-f0d77a072e85",
-      "name": "Relic Reward Choice",
-      "version": "1.7.5",
-      "source": "nexus:slaythespire2/mods/272",
-      "hash": "1ab92726d05e57ebb2be8b6d7b80c2738b689924bc88458b4cca9539b671f7c0",
-      "files": [
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\desktop.ini",
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.dll",
-        "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410\\RelicRewardChoice.json"
-      ],
-      "folder_name": "RelicRewardChoice - beta branch (v0.107)-272-1-7-5-1780761410",
-      "mod_id": "RelicRewardChoice",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Relic_Reward_Choice_v1.7.5_5c5883a8.zip",
-      "bundle_sha256": "5c5883a8674033fafd50e52a066f07dd63161b6ec3372e88e6a670524ca91ec7"
-    },
-    {
       "mod_version_id": "b67a4dd4-a41c-4f61-930e-ad7adad86ed5",
       "name": "Start With Miniature Tent",
       "version": "1.0.0",
@@ -361,6 +326,6 @@
     }
   ],
   "created_at": "2026-06-20T08:32:48.654123200Z",
-  "updated_at": "2026-06-20T08:47:38.202426Z",
+  "updated_at": "2026-06-20T09:19:57.976169200Z",
   "public": false
 }
