@@ -3,8 +3,96 @@
   "name": "Casul88",
   "game_version": null,
   "created_by": "jhincalamansi-max",
-  "mods": [],
+  "mods": [
+    {
+      "mod_version_id": "1b193496-e23f-4ed5-b10b-279c71008c56",
+      "name": "BaseLib",
+      "version": "v3.3.2",
+      "source": "github:Alchyr/BaseLib-StS2",
+      "hash": "d8640e6c0914fe7163442aa53a71b5bba4cf8f6796b661b45b0440fb82cfe937",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck",
+        "BaseLib\\desktop.ini"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BaseLib_v3.3.2_84c1cbd7.zip",
+      "bundle_sha256": "84c1cbd711affefd7db91740bb68db00fdfbfc605c72a050feac6bebc95f3c91"
+    },
+    {
+      "mod_version_id": "909807e0-b5b7-412e-918b-ef898dd0d81c",
+      "name": "BetterSaves",
+      "version": "0.4.3",
+      "source": "nexus:slaythespire2/mods/372",
+      "hash": "61eff6a9caf7110deff8d333c7e7d2d168e4b67e51318bead98b6368a1b4d752",
+      "files": [
+        "BetterSaves\\BetterSaves.dll",
+        "BetterSaves\\BetterSaves.json",
+        "BetterSaves\\BetterSaves.pck"
+      ],
+      "folder_name": "BetterSaves",
+      "mod_id": "BetterSaves",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSaves_v0.4.3_bfc3e5f5.zip",
+      "bundle_sha256": "bfc3e5f53654dff3cc1dbded573953d556818b56177da7d686527da8df32442f"
+    },
+    {
+      "mod_version_id": "6172e883-5232-4ff4-98e6-0b6784ddcb57",
+      "name": "Map Enhance Mod",
+      "version": "0.8.1",
+      "source": "nexus:slaythespire2/mods/475",
+      "hash": "7fd9c2f63d8af09d83ac36df90024659eb36f925546e71ba956defb87f057c7f",
+      "files": [
+        "Map Enhance Mod\\desktop.ini",
+        "Map Enhance Mod\\map_color_config.json.txt",
+        "Map Enhance Mod\\sts2_map_mod.dll",
+        "Map Enhance Mod\\sts2_map_mod.json",
+        "Map Enhance Mod\\sts2_map_mod.log",
+        "Map Enhance Mod\\sts2_map_mod.pck",
+        "Map Enhance Mod\\sts2_map_mod.previous.log"
+      ],
+      "folder_name": "Map Enhance Mod",
+      "mod_id": "sts2_map_mod",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_4287609d.zip",
+      "bundle_sha256": "4287609dcfd49adb354050b6be5b794d0d7138c83fc28c4a425bef4f972bd25d"
+    },
+    {
+      "mod_version_id": "b3b926f9-3835-430f-9c29-ff18d4ad7d28",
+      "name": "BetterSpire2",
+      "version": "v1.83.3",
+      "source": "nexus:slaythespire2/mods/2",
+      "hash": "084b2d6f2f86f30a91f0320f209eac3f0cecb86fa4a94d5a6f86cd17fa60dc7f",
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.3_b5568895.zip",
+      "bundle_sha256": "b5568895445e365d6efee2ebecd10a5018afcb13c33da5ee331e5f8dda7312b4"
+    }
+  ],
   "created_at": "2026-06-24T12:02:17.897890100Z",
-  "updated_at": "2026-06-25T04:43:11.837359300Z",
+  "updated_at": "2026-06-25T04:46:41.540873900Z",
   "public": false
 }
