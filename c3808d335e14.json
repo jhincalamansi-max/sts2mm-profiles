@@ -105,8 +105,8 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_91a32a40.zip",
-      "bundle_sha256": "91a32a4064d0c6dc1b4e71b600eb7a760ad9cb8df15f9b1fba347a38499f735f"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_8b2ab5b2.zip",
+      "bundle_sha256": "8b2ab5b2ee725720089b137bb79ac7fd60c29267dc8ac1bad7f8926828f033cc"
     },
     {
       "mod_version_id": "ad25c2b8-a183-4486-beae-ef0ee6aebff4",
@@ -133,16 +133,35 @@
       "hash": "6affd3fbbccdb1247bde79fd11166ce009ad18d38f0d32251e284425a9491d45",
       "files": [
         "BetterStart\\BetterStart.dll",
-        "BetterStart\\BetterStart.json"
+        "BetterStart\\BetterStart.json",
+        "BetterStart\\config.json",
+        "BetterStart\\relics_list.txt"
       ],
       "folder_name": "BetterStart",
       "mod_id": "BetterStart",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__BetterStart_v1.0.0_518d5a46.zip",
-      "bundle_sha256": "518d5a46958a4ed604f00156d28b8196b81b89dfc7814b3f555a01e3854993ca"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__BetterStart_v1.0.0_97e5fbef.zip",
+      "bundle_sha256": "97e5fbefeef667788124cf4e092f3abbd6bb2358df25950ef6f7fde693c121ad"
+    },
+    {
+      "mod_version_id": "eb3d93ad-eb9a-4344-b569-21a2d67aaa3c",
+      "name": "AutoPlay",
+      "version": "v1.15",
+      "source": "nexus:slaythespire2/mods/315",
+      "hash": "3361ff1e83b865560bca64db897e04c7ab502f0c08925b20e799fcb4701ee9f3",
+      "files": [
+        "AutoPlay\\AutoPlay.dll",
+        "AutoPlay\\AutoPlay.json",
+        "AutoPlay\\AutoPlay.pck"
+      ],
+      "folder_name": "AutoPlay",
+      "mod_id": "AutoPlay",
+      "enabled": true,
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/AutoPlay_v1.15_78e0313c.zip",
+      "bundle_sha256": "78e0313c16e4e1a8e169878625cba8239c24824dd7edd5d0e06dd67acb1c868d"
     }
   ],
   "created_at": "2026-06-24T12:02:17.897890100Z",
-  "updated_at": "2026-06-26T10:27:37.918662Z",
+  "updated_at": "2026-06-27T04:43:18.988424Z",
   "public": false
 }
