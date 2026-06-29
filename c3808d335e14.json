@@ -1,7 +1,7 @@
 {
   "id": "8e6f6051-5731-46aa-9145-ffbee3d3b9c1",
   "name": "Casul88",
-  "game_version": null,
+  "game_version": "0.107.1",
   "created_by": "jhincalamansi-max",
   "mods": [
     {
@@ -105,41 +105,19 @@
       "folder_name": "Map Enhance Mod",
       "mod_id": "sts2_map_mod",
       "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_8b2ab5b2.zip",
-      "bundle_sha256": "8b2ab5b2ee725720089b137bb79ac7fd60c29267dc8ac1bad7f8926828f033cc"
-    },
-    {
-      "mod_version_id": "ad25c2b8-a183-4486-beae-ef0ee6aebff4",
-      "name": "CardFusion.deps",
-      "version": "1.0.0",
-      "source": "nexus:slaythespire2/mods/1288",
-      "hash": "69e2bd54a5786d521ae141a80372a94633af2bea178b8dc11b5290d4335a6f2b",
-      "files": [
-        "CardFusion\\CardFusion.dll",
-        "CardFusion\\CardFusion.json",
-        "CardFusion\\CardFusion.pck",
-        "CardFusion\\CardFusion.pdb"
-      ],
-      "folder_name": "CardFusion",
-      "enabled": true,
-      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/CardFusion_deps_v1.0.0_cb8ccbad.zip",
-      "bundle_sha256": "cb8ccbad9678785b8c00be33d79f68bfc1630ce6a557b9125b7d85b42951e84c"
+      "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/Map_Enhance_Mod_v0.8.1_e198b380.zip",
+      "bundle_sha256": "e198b380cec8013325c0aaf84bdbb2b7ec462dd94cafcb4f44c2453680c5056d"
     },
     {
       "mod_version_id": "2a6f944c-5aa4-4891-ac76-b1125537bea3",
       "name": "更好的开局: BetterStart",
       "version": "1.0.0",
-      "source": null,
+      "source": "nexus:slaythespire2/mods/1304",
       "hash": "6affd3fbbccdb1247bde79fd11166ce009ad18d38f0d32251e284425a9491d45",
-      "files": [
-        "BetterStart\\BetterStart.dll",
-        "BetterStart\\BetterStart.json",
-        "BetterStart\\config.json",
-        "BetterStart\\relics_list.txt"
-      ],
+      "files": [],
       "folder_name": "BetterStart",
       "mod_id": "BetterStart",
-      "enabled": true,
+      "enabled": false,
       "bundle_url": "https://github.com/jhincalamansi-max/sts2mm-profiles/releases/download/bundles/__BetterStart_v1.0.0_97e5fbef.zip",
       "bundle_sha256": "97e5fbefeef667788124cf4e092f3abbd6bb2358df25950ef6f7fde693c121ad"
     },
@@ -162,6 +140,6 @@
     }
   ],
   "created_at": "2026-06-24T12:02:17.897890100Z",
-  "updated_at": "2026-06-27T04:43:18.988424Z",
+  "updated_at": "2026-06-28T05:57:12.281179400Z",
   "public": false
 }
